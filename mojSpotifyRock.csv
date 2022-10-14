@@ -1,0 +1,101 @@
+name,album,artist,artist_genre,release_date,length,danceability,acousticness,energy,instrumentalness,liveness,loudness,speechiness,tempo
+Tumbling Dice,Exile On Main Street (2010 Re-Mastered),The Rolling Stones,Rock,5/12/1972,226333,0.5,0.615,0.91,0.511,0.281,-4.248,0.0347,111.013
+Wish You Were Here,Wish You Were Here,Pink Floyd,Rock,9/12/1975,334743,0.735,0.481,0.262,0.0114,0.832,-15.73,0.0414,122.861
+Smells Like Teen Spirit,Nevermind (Remastered),Nirvana,Rock,9/26/1991,301920,2.55E-05,0.502,0.912,0.000173,0.106,-4.556,0.0564,116.761
+Paradise City,Appetite For Destruction,Guns N' Roses,Rock,7/21/1987,405640,0.0169,0.273,0.952,0.0111,0.142,-8.762,0.0843,100.271
+Another One Bites The Dust - Remastered 2011,The Game (Deluxe Remastered Version),Queen,Rock,6/27/1980,214653,0.112,0.933,0.528,0.329,0.163,-6.472,0.162,109.975
+Highway to Hell,Highway to Hell,AC/DC,Rock,7/27/1979,208400,0.061,0.574,0.913,0.00158,0.156,-4.793,0.133,115.728
+I Love Rock 'N Roll,I Love Rock 'N' Roll (Expanded Edition),Joan Jett & The Blackhearts,Rock,11/18/1981,175173,0.326,0.535,0.716,0,0.659,-5.025,0.0431,94.379
+Whole Lotta Love - 1990 Remaster,Led Zeppelin II (1994 Remaster),Led Zeppelin,Rock,10/22/1969,333893,0.0484,0.412,0.902,0.131,0.405,-11.6,0.405,89.74
+Creep,Pablo Honey,Radiohead,Rock,2/22/1993,238640,0.0097,0.515,0.43,0.000133,0.129,-9.935,0.0372,91.844
+Something In The Way,Nevermind (Remastered),Nirvana,Rock,9/26/1991,232146,0.745,0.427,0.201,0.263,0.109,-13.044,0.0317,105.218
+Dream On,Aerosmith,Aerosmith,Rock,1/5/1973,266960,0.388,0.307,0.433,9.08E-05,0.332,-10.057,0.029,160.9
+Livin' On A Prayer,Slippery When Wet,Bon Jovi,Rock,1/1/1986,249293,0.0768,0.534,0.887,9.93E-05,0.325,-3.777,0.0345,122.494
+Don't Stop Believin',Escape,Journey,Rock,1981,250986,0.127,0.5,0.748,0,0.447,-9.072,0.0363,118.852
+Seven Nation Army,Elephant,The White Stripes,Rock,4/1/2003,232106,0.0039,0.743,0.446,0.118,0.337,-7.807,0.0683,123.596
+Hotel California - 2013 Remaster,Hotel California (2013 Remaster),Eagles,Rock,12/8/1976,391376,0.00574,0.579,0.508,0.000494,0.0575,-9.484,0.027,147.125
+La Grange - 2005 Remaster,Tres Hombres (Expanded 2006 Remaster),ZZ Top,Rock,7/26/1973,230480,0.00249,0.545,0.64,0.0304,0.196,-9.937,0.224,80.544
+Heroes - 2017 Remaster,"""Heroes"" (2017 Remaster)",David Bowie,Rock,1977,371413,0.000671,0.49,0.758,0.484,0.092,-6.491,0.0297,112.114
+Tom Sawyer,Moving Pictures (2011 Remaster),Rush,Rock,2/12/1981,276880,0.00145,0.536,0.901,0.0186,0.06,-7.211,0.0374,87.559
+Baba O'Riley,Who's Next (Deluxe Edition),The Who,Rock,8/14/1971,300400,0.313,0.489,0.724,0.185,0.287,-8.367,0.0352,117.292
+Hold the Line,Toto,TOTO,Rock,10/10/1978,235546,0.00783,0.473,0.898,0.0618,0.173,-4.797,0.0561,96.556
+Paranoid,Greatest Hits,Black Sabbath,Rock,3/28/2014,168440,8.44E-05,0.426,0.619,0.00239,0.17,-11.501,0.0722,162.721
+Police & Thieves - Remastered,The Clash (Remastered),The Clash,Rock,1977,363373,0.0289,0.721,0.488,0.038,0.18,-10.294,0.067,152.287
+Under the Bridge,Blood Sugar Sex Magik (Deluxe Edition),Red Hot Chili Peppers,Rock,9/24/1991,264306,0.0576,0.559,0.345,0.000105,0.141,-13.496,0.0459,84.581
+Back In Black,Back In Black,AC/DC,Rock,7/25/1980,255493,0.011,0.31,0.7,0.00965,0.0828,-5.678,0.047,188.386
+Everlong,The Colour And The Shape,Foo Fighters,Rock,5/20/1997,250546,5.99E-05,0.413,0.881,0.000308,0.0805,-5.541,0.0367,158.066
+(I Can't Get No) Satisfaction - Mono Version,Out Of Our Heads,The Rolling Stones,Rock,7/30/1965,222813,0.0383,0.723,0.863,0.0317,0.128,-7.89,0.0338,136.302
+Paradise By the Dashboard Light,Bat Out Of Hell,Meat Loaf,Rock,10/21/1977,508333,0.214,0.326,0.872,0,0.461,-7.602,0.122,173.381
+Dreams - 2004 Remaster,Rumours (Super Deluxe),Fleetwood Mac,Rock,2/4/1977,257800,0.0644,0.828,0.492,0.00428,0.128,-9.744,0.0276,120.151
+We Will Rock You - Remastered 2011,News Of The World (Deluxe Remastered Version),Queen,Rock,10/28/1977,122066,0.679,0.693,0.497,0,0.258,-7.316,0.119,81.308
+Enter Sandman,Metallica,Metallica,Rock,8/12/1991,331573,0.00206,0.579,0.824,0.00903,0.059,-8.71,0.03,123.331
+Sweet Home Alabama,Second Helping,Lynyrd Skynyrd,Rock,4/15/1974,281147,0.181,0.597,0.605,0.000331,0.118,-12.013,0.0255,97.782
+Have You Ever Seen The Rain,Pendulum (40th Anniversary Edition),Creedence Clearwater Revival,Rock,12/7/1970,160133,0.0664,0.741,0.697,2.28E-05,0.133,-7.028,0.0277,116.109
+Born To Be Wild,Steppenwolf,Steppenwolf,Rock,1968,210373,0.262,0.438,0.71,0.537,0.221,-12.412,0.0919,145.928
+Moonage Daydream - 2012 Remaster,The Rise and Fall of Ziggy Stardust and the Spiders from Mars (2012 Remaster),David Bowie,Rock,6/6/1972,279693,0.0408,0.56,0.605,0.000162,0.0585,-11.209,0.0348,144.478
+Every Breath You Take - Remastered 2003,Synchronicity,The Police,Rock,6/1/1983,253886,0.56,0.813,0.46,0.0105,0.0724,-9.78,0.0346,117.387
+I Wanna Rock,Stay Hungry,Twisted Sister,Rock,5/10/1984,179760,0.00512,0.504,0.911,0.0123,0.355,-2.97,0.0738,106.244
+You Really Got Me,Kinks (Super Deluxe Edition),The Kinks,Rock,10/2/1964,133933,0.0995,0.567,0.959,6.07E-05,0.1,-3.822,0.102,137.377
+Limelight,Moving Pictures (2011 Remaster),Rush,Rock,2/12/1981,259839,0.00197,0.581,0.854,0.0013,0.111,-8.485,0.0428,131.18
+Black Dog - Remaster,Led Zeppelin IV (Deluxe Edition),Led Zeppelin,Rock,11/8/1971,295386,0.396,0.437,0.864,0.0314,0.242,-7.842,0.0904,81.394
+London Calling - Remastered,London Calling (Remastered),The Clash,Rock,1979,200480,0.123,0.651,0.801,0,0.0825,-7.34,0.0514,133.769
+Come Together - Remastered 2009,Abbey Road (Remastered),The Beatles,Rock,9/26/1969,259946,0.0302,0.533,0.376,0.248,0.0926,-11.913,0.0393,165.007
+House Of The Rising Sun,The Best Of The Animals,The Animals,Rock,1966-02,269720,0.000825,0.315,0.534,0.108,0.101,-7.552,0.031,116.891
+Sweet Child O' Mine,Appetite For Destruction,Guns N' Roses,Rock,7/21/1987,356066,0.0901,0.446,0.952,0.0857,0.112,-5.321,0.0523,125.303
+Sultans of Swing,Dire Straits,Dire Straits,Rock,10/7/1978,350400,0.0632,0.73,0.868,0.0661,0.318,-7.325,0.0288,148.217
+Wonderwall - Remastered,(What's The Story) Morning Glory? (Deluxe Edition) [Remastered],Oasis,Rock,10/2/1995,258732,0.000453,0.372,0.865,0,0.234,-4.918,0.0381,174.53
+One Way Or Another - Remastered,One Way Or Another,Blondie,Rock,1979,212706,0.0118,0.45,0.877,4.95E-05,0.0699,-6.403,0.0532,162.477
+Song 2 - 2012 Remaster,Blur (Special Edition),Blur,Rock,2/10/1997,121160,0.00178,0.674,0.789,0.00708,0.0753,-6.903,0.0676,129.802
+Heart-Shaped Box,In Utero - 20th Anniversary - Deluxe Edition,Nirvana,Rock,9/21/1993,281160,0.199,0.256,0.641,0.0329,0.0853,-10.283,0.0552,203.006
+American Girl,Tom Petty & The Heartbreakers,Tom Petty and the Heartbreakers,Rock,11/9/1976,214733,0.448,0.55,0.824,0.000127,0.366,-5.988,0.0334,114.512
+Edge of Seventeen - 2016 Remaster,Bella Donna (Deluxe Edition),Stevie Nicks,Rock,11/4/2016,329413,0.327,0.591,0.804,5.98E-06,0.0818,-7.299,0.0454,111.457
+White Riot - Remastered,The Clash (Remastered),The Clash,Rock,1977,116440,0.000598,0.168,0.974,0.783,0.295,-4.862,0.0655,205.278
+Basket Case,Dookie,Green Day,Rock,2/1/1994,181533,0.00293,0.442,0.943,8.71E-06,0.091,-3.205,0.0602,85.064
+Jump - 2015 Remaster,The Collection,Van Halen,Rock,3/27/2015,241599,0.171,0.572,0.835,0.000377,0.0702,-6.219,0.0317,129.981
+Stairway to Heaven - Remaster,Led Zeppelin IV (Remaster),Led Zeppelin,Rock,11/8/1971,482830,0.58,0.338,0.34,0.0032,0.116,-12.049,0.0339,82.433
+Sheena Is a Punk Rocker - 2017 Remaster,Rocket to Russia (40th Anniversary Deluxe Edition),Ramones,Rock,11/4/1977,169920,0.0981,0.42,0.965,0.000335,0.0784,-1.986,0.0403,176.243
+Starman - 2012 Remaster,The Rise and Fall of Ziggy Stardust and the Spiders from Mars (2012 Remaster),David Bowie,Rock,6/6/1972,254293,0.166,0.486,0.449,2.23E-06,0.54,-10.298,0.0267,100.456
+Bohemian Rhapsody - Remastered 2011,A Night At The Opera (2011 Remaster),Queen,Rock,11/21/1975,354320,0.271,0.414,0.404,0,0.3,-9.928,0.0499,71.105
+The Boys Are Back In Town,Jailbreak (Deluxe Edition),Thin Lizzy,Rock,1976,266720,0.234,0.445,0.706,0.000252,0.205,-9.803,0.0461,80.823
+We Got The Beat - 2011 Remaster,Beauty And The Beat (30th Anniversary Deluxe Edition),The Go-Go's,Rock,7/8/1981,151106,0.195,0.595,0.996,0.0345,0.0351,-3.418,0.0599,152.049
+With Or Without You - Remastered,The Joshua Tree (Super Deluxe),U2,Rock,3/3/1987,295515,0.000202,0.54,0.429,0.355,0.141,-11.822,0.0285,110.171
+Crazy On You,Dreamboat Annie,Heart,Rock,1975,293440,0.116,0.427,0.459,0.000103,0.132,-12.442,0.0332,129.878
+Mountain Song,Nothing's Shocking,Jane's Addiction,Rock,8/23/1988,242720,0.0155,0.324,0.931,0.0252,0.277,-6.803,0.0837,82.748
+Rock and Roll - Remaster,Mothership (Remastered),Led Zeppelin,Rock,2007,220880,0.00091,0.317,0.879,0.00142,0.0972,-7.533,0.0406,169.534
+Kickstart My Heart,Dr. Feelgood,MÃ¶tley CrÃ¼e,Rock,1989,282653,0.00125,0.359,0.981,0.00236,0.284,-3.622,0.303,178.98
+Zombie,No Need To Argue,The Cranberries,Rock,10/3/1994,306426,0.0154,0.307,0.635,0.00483,0.366,-8.957,0.0339,166.973
+More Than a Feeling,Boston,Boston,Rock,1976,285133,0.000894,0.377,0.682,0.00217,0.0504,-8.039,0.0299,108.736
+Saturday Nightâ€™s Alright (For Fighting) - Remastered 2014,Goodbye Yellow Brick Road (Remastered),Elton John,Rock,10/5/1973,295466,0.0195,0.513,0.979,0.0951,0.0906,-6.362,0.0425,152.875
+In The Air Tonight - 2015 Remastered,Face Value (Deluxe Editon),Phil Collins,Rock,1/1/1981,336453,0.551,0.446,0.239,4.10E-06,0.0697,-13.945,0.0316,189.507
+All Along the Watchtower,Electric Ladyland,Jimi Hendrix,Rock,10/25/1968,240800,0.00255,0.438,0.805,5.69E-05,0.0842,-6.237,0.0624,113.253
+Thunderstruck,The Razors Edge,AC/DC,Rock,9/24/1990,292880,0.000147,0.502,0.89,0.0117,0.217,-5.175,0.0364,133.52
+Back on the Chain Gang - 2007 Remaster,Learning to Crawl (Expanded & Remastered),Pretenders,Rock,1984,231120,0.116,0.598,0.901,0.0401,0.178,-6.081,0.0359,153.24
+Rebel Rebel - 1999 Remaster,Diamond Dogs (30th Anniversary),David Bowie,Rock,4/24/1974,269360,0.00101,0.676,0.92,8.65E-06,0.248,-7.96,0.0435,126.341
+Break on Through (To the Other Side),The Doors,The Doors,Rock,1/4/1967,145866,0.2,0.421,0.751,0,0.17,-9.584,0.0472,89.839
+Born in the U.S.A.,Born In The U.S.A.,Bruce Springsteen,Rock,6/4/1984,278680,0.000373,0.398,0.952,7.75E-05,0.1,-6.042,0.061,122.093
+Bitter Sweet Symphony,Urban Hymns (Remastered 2016),The Verve,Rock,9/29/1997,357266,0.0335,0.356,0.917,0,0.406,-6.006,0.0479,171.176
+Won't Get Fooled Again - Original Album Version,Who's Next (Deluxe Edition),The Who,Rock,8/14/1971,511400,0.301,0.686,0.92,0.27,0.0807,-6.231,0.0566,135.027
+White Wedding - Pt. 1,Billy Idol,Billy Idol,Rock,1/1/1982,252200,0.0133,0.673,0.814,0.00293,0.343,-5.411,0.0367,147.193
+The Spirit Of Radio,Permanent Waves,Rush,Rock,1/1/1980,296466,0.0144,0.365,0.924,0.000254,0.423,-7.066,0.0488,135.811
+Carry on Wayward Son,Leftoverture (Expanded Edition),Kansas,Rock,1976,323000,0.00321,0.482,0.786,8.88E-05,0.446,-5.735,0.032,126.755
+Mr. Brightside,Hot Fuss,The Killers,Rock,6/15/2004,222586,0.00101,0.356,0.924,0,0.0953,-3.74,0.0808,148.017
+Where Is My Mind? - Remastered,Surfer Rosa,Pixies,Rock,3/21/1988,234973,0.0204,0.519,0.441,0.000453,0.076,-14.178,0.0353,81.334
+Sweet Child O' Mine,Appetite For Destruction,Guns N' Roses,Rock,7/21/1987,354520,0.0866,0.454,0.91,0.0996,0.116,-7.766,0.0448,125.116
+Rock And Roll All Nite,Dressed To Kill (Remastered Version),KISS,Rock,3/19/1975,168733,0.046,0.656,0.931,0,0.0543,-5.827,0.0976,144.747
+Last Nite,Is This It,The Strokes,Rock,7/30/2001,193373,0.0221,0.624,0.899,0.000137,0.0975,-5.709,0.0296,104.061
+Hit Me With Your Best Shot,Crimes Of Passion,Pat Benatar,Rock,8/5/1980,171266,0.117,0.741,0.58,3.31E-05,0.212,-9.05,0.0304,127.402
+Under Pressure - Remastered 2011,Greatest Hits II,Queen,Rock,10/28/1991,236520,0.524,0.663,0.712,0,0.0804,-7.268,0.0479,113.439
+Alive,Ten,Pearl Jam,Rock,8/27/1991,340907,0.00752,0.284,0.875,0.000461,0.402,-6.069,0.0422,75.009
+Rock You Like a Hurricane - 2015 - Remaster,Love At First Sting (Deluxe Edition),Scorpions,Rock,3/27/1984,253666,0.00484,0.402,0.873,7.30E-05,0.157,-3.209,0.0586,125.443
+You Give Love A Bad Name,Slippery When Wet,Bon Jovi,Rock,8/16/1986,222706,0.0663,0.541,0.96,2.25E-06,0.344,-2.947,0.0505,122.803
+School's Out,School's Out,Alice Cooper,Rock,1972,210106,0.05,0.294,0.745,0.125,0.676,-9.138,0.0461,134.364
+Bullet With Butterfly Wings - Remastered 2012,Mellon Collie And The Infinite Sadness (Deluxe Edition),The Smashing Pumpkins,Rock,1995,258466,5.59E-05,0.404,0.72,0.836,0.0466,-9.18,0.0623,121.864
+"Paint It, Black - Mono",The Rolling Stones In Mono (Remastered 2016),The Rolling Stones,Rock,1/1/1966,204480,0.0103,0.505,0.836,0.0771,0.295,-7.384,0.101,159.669
+The Chain,Rumours,Fleetwood Mac,Rock,2/4/1977,271000,0.0629,0.546,0.529,0.000567,0.0383,-13.6,0.0436,151.727
+Good Times Roll - 2016 Remaster,The Elektra Years 1978 - 1987,The Cars,Rock,3/11/2016,225226,0.0731,0.631,0.689,0.000357,0.102,-8.358,0.0284,107.667
+Satellite of Love,Transformer,Lou Reed,Rock,12/1/1972,221120,0.442,0.458,0.502,5.51E-06,0.299,-10.186,0.0294,121.861
+Stuck In The Middle With You,Stealers Wheel,Stealers Wheel,Rock,1/1/1972,208946,0.0936,0.82,0.575,0.000135,0.109,-9.144,0.0408,123.765
+The Middle,Bleed American (Deluxe Edition),Jimmy Eat World,Rock,2001,168253,0.0424,0.629,0.897,0,0.263,-3.401,0.0483,161.944
+Fortunate Son,The Long Road Home - The Ultimate John Fogerty / Creedence Collection,John Fogerty,Rock,12/14/2005,138053,0.0648,0.636,0.746,0.29,0.173,-3.785,0.0393,132.31
+Times Like These - Acoustic Version,20225,Foo Fighters,Rock,10/18/2019,238586,0.128,0.588,0.559,0,0.0977,-4.849,0.0272,123.845
+Layla - 40th Anniversary Version / 2010 Remastered,Layla And Other Assorted Love Songs (40th Anniversary / 2010 Remastered),Derek & The Dominos,Rock,11/1/1970,423840,0.577,0.404,0.903,0.297,0.287,-3.88,0.0668,115.672

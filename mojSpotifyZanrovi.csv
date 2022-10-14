@@ -1,0 +1,401 @@
+name,album,artist,release_date,length,danceability,acousticness,energy,instrumentalness,liveness,loudness,speechiness,tempo,genre
+Mistadobalina,The Best Of Del Tha Funkee Homosapien [The Elektra Years]: The B-Boy Handbook,Del The Funky Homosapien,2/10/2004,260306,0.0964,0.85,0.797,8.38E-06,0.34,-7.429,0.136,99.615,Hip-Hop
+Find a Way,The Love Movement,A Tribe Called Quest,9/29/1998,203066,0.0352,0.773,0.581,0,0.485,-8.466,0.432,94.093,Hip-Hop
+I Don't Fuck With You,Dark Sky Paradise,Big Sean,2/24/2015,284386,0.0362,0.824,0.733,0,0.325,-5.474,0.0613,97.972,Hip-Hop
+Tear Da Roof Off,Extinction Level Event: The Final World Front,Busta Rhymes,1998,216560,0.0168,0.562,0.83,0,0.162,-7.296,0.45,178.686,Hip-Hop
+Arab Money - Dirty,Back On My B.S.,Busta Rhymes,2009,165213,0.24,0.739,0.75,0,0.155,-5.056,0.339,93.331,Hip-Hop
+Break Ya Neck,Genesis,Busta Rhymes,11/7/2001,231240,0.443,0.82,0.809,0.00175,0.0613,-6.759,0.251,83.011,Hip-Hop
+How We Do,The Documentary,The Game,2005,235533,0.0455,0.862,0.648,0,0.0332,-7.401,0.251,98.012,Hip-Hop
+Still D.R.E.,2001,Dr. Dre,11/16/1999,270586,0.16,0.816,0.775,0.00031,0.0543,-3.323,0.234,93.431,Hip-Hop
+"C.R.E.A.M. (Cash Rules Everything Around Me) (feat. Method Man, Raekwon, Inspectah Deck & Buddha Monk)",Enter The Wu-Tang (36 Chambers) [Expanded Edition],Wu-Tang Clan,11/9/1993,252186,0.57,0.479,0.549,0.0235,0.127,-10.551,0.373,180.985,Hip-Hop
+Party Up,...And Then There Was X,DMX,12/21/1999,268866,0.0738,0.51,0.931,0,0.5,-3.302,0.347,201.936,Hip-Hop
+Put Your Hands Where My Eyes Could See,When Disaster Strikes...,Busta Rhymes,1997,194293,0.00864,0.906,0.623,4.19E-06,0.0753,-6.711,0.303,99.498,Hip-Hop
+Ms. Fat Booty,Black On Both Sides,Mos Def,10/12/1999,223546,0.148,0.782,0.589,0,0.164,-4.827,0.189,90.438,Hip-Hop
+"Shook Ones, Pt. II",The Infamous,Mobb Deep,4/25/1995,325506,0.0146,0.763,0.786,0.0114,0.0817,-6.472,0.229,93.857,Hip-Hop
+Runnin',Labcabincalifornia (Deluxe Edition),The Pharcyde,1/1/1995,296266,0.0287,0.754,0.785,0.00144,0.319,-8.178,0.18,94.123,Hip-Hop
+Shimmy Shimmy Ya,Return to the 36 Chambers: The Dirty Version,Ol' Dirty Bastard,1995,161400,0.097,0.814,0.481,3.83E-05,0.0495,-5.183,0.245,96.252,Hip-Hop
+Scenario - LP Mix,The Low End Theory,A Tribe Called Quest,9/24/1991,250133,0.112,0.795,0.6,0.000171,0.111,-14.004,0.341,101.78,Hip-Hop
+Da Rockwilder,Blackout!,Method Man,1/1/1999,136093,0.0137,0.612,0.659,0,0.417,-6.995,0.406,99.137,Hip-Hop
+X Gon' Give It To Ya,The Definition of X: Pick Of The Litter,DMX,6/12/2007,217586,0.0135,0.761,0.899,0,0.0719,-3.09,0.183,95.027,Hip-Hop
+The Next Episode,2001,Dr. Dre,11/16/1999,161506,0.0281,0.922,0.909,0,0.0856,-2.429,0.27,95.295,Hip-Hop
+Hypnotize - 2014 Remaster,Life After Death (2014 Remastered Edition),The Notorious B.I.G.,3/4/1997,229826,0.145,0.901,0.697,0,0.287,-3.439,0.28,93.941,Hip-Hop
+Got Your Money (feat. Kelis),Nigga Please,Ol' Dirty Bastard,1999,239546,0.0516,0.934,0.459,0,0.222,-7.654,0.189,103.04,Hip-Hop
+Can I Kick It?,People's Instinctive Travels and the Paths of Rhythm (25th Anniversary Edition),A Tribe Called Quest,4/17/1990,251573,0.173,0.848,0.666,0.000699,0.129,-6.547,0.274,96.662,Hip-Hop
+Insane in the Brain,Black Sunday,Cypress Hill,7/20/1993,208266,0.0291,0.897,0.611,0.186,0.0894,-10.489,0.211,102.304,Hip-Hop
+If I Ruled the World (Imagine That) (feat. Lauryn Hill),It Was Written,Nas,7/2/1996,282373,0.0474,0.879,0.564,9.43E-06,0.0519,-7.682,0.247,93.908,Hip-Hop
+It Was A Good Day,The Predator,Ice Cube,11/17/1992,260000,0.33,0.798,0.744,0.000106,0.292,-5.328,0.136,82.356,Hip-Hop
+"Gravel Pit (feat. RZA, Method Man, Ghostface Killah, Raekwon & U-God)",Gravel Pit,Wu-Tang Clan,2001,273266,0.18,0.792,0.744,0,0.331,-7.18,0.241,120.985,Hip-Hop
+Regulate,RegulateÃ¢â‚¬Â¦ G Funk Era,Warren G,6/7/1994,248866,0.304,0.849,0.521,1.65E-06,0.115,-12.999,0.216,95.265,Hip-Hop
+Gin N Juice (feat. Dat Nigga Daz),Doggystyle,Snoop Dogg,1993,211493,0.0285,0.549,0.853,0.000296,0.618,-4.293,0.188,94.695,Hip-Hop
+Juicy - 2005 Remaster,Ready to Die (The Remaster),The Notorious B.I.G.,9/13/1994,302760,0.47,0.889,0.818,0,0.179,-4.639,0.253,96.063,Hip-Hop
+Survival of the Fittest,The Infamous,Mobb Deep,4/25/1995,224533,0.125,0.813,0.703,1.26E-06,0.237,-5.077,0.268,94.828,Hip-Hop
+Forgot About Dre,2001,Dr. Dre,11/16/1999,222293,0.0827,0.924,0.74,0,0.163,-1.299,0.0774,133.974,Hip-Hop
+Mo Money Mo Problems (feat. Puff Daddy & Mase) - 2014 Remaster,Life After Death (2014 Remastered Edition),The Notorious B.I.G.,3/4/1997,257399,0.0128,0.845,0.884,2.10E-06,0.203,-4.506,0.0759,104.536,Hip-Hop
+Ambitionz Az A Ridah,All Eyez On Me,2Pac,1996,278386,0.00253,0.801,0.908,0.000655,0.0698,-6.554,0.221,87.279,Hip-Hop
+Fu-Gee-La,The Score (Expanded Edition),Fugees,2/13/1996,260066,0.137,0.681,0.505,0,0.234,-11.709,0.138,89.953,Hip-Hop
+N.Y. State of Mind,Illmatic XX,Nas,4/15/2014,293973,0.0394,0.665,0.91,0,0.227,-4.682,0.223,84.099,Hip-Hop
+Sound of da Police,Return of the Boom Bap,KRS-One,9/3/1993,258506,0.124,0.794,0.95,7.71E-05,0.133,-8.78,0.294,94.984,Hip-Hop
+Passin' Me By,Bizarre Ride II The Pharcyde,The Pharcyde,11/24/1992,303493,0.0903,0.759,0.756,2.36E-06,0.265,-8.145,0.266,87.059,Hip-Hop
+"Flava in Ya Ear Remix (feat. Notorious B.I.G., L.L. Cool J, Busta Rhymes, Rampage)",Flava In Ya Ear Remix,Craig Mack,1994,302013,0.272,0.52,0.847,0,0.325,-5.3,0.427,177.371,Hip-Hop
+Who Am I (What's My Name)?,Doggystyle,Snoop Dogg,1993,246320,0.000136,0.692,0.833,1.98E-05,0.515,-3.974,0.0492,96.814,Hip-Hop
+"Protect Ya Neck (feat. RZA, Method Man, Inspectah Deck, Raekwon, U-God, Ol' Dirty Bastard, Ghostface Killah & GZA)",Enter The Wu-Tang (36 Chambers) [Expanded Edition],Wu-Tang Clan,11/9/1993,291066,0.0318,0.817,0.552,7.01E-06,0.826,-10.8,0.385,102.011,Hip-Hop
+Ready or Not,The Score (Expanded Edition),Fugees,2/13/1996,226986,0.209,0.607,0.422,0,0.0839,-13.364,0.499,130.47,Hip-Hop
+"Wu-Tang Clan Ain't Nuthing ta F' Wit (feat. RZA, Inspectah Deck & Method Man)",Enter The Wu-Tang (36 Chambers) [Expanded Edition],Wu-Tang Clan,11/9/1993,216133,0.199,0.826,0.566,0,0.356,-10.747,0.311,99.131,Hip-Hop
+All Eyez On Me (ft. Big Syke),All Eyez On Me,2Pac,1996,307773,0.03,0.873,0.719,0,0.333,-5.948,0.248,93.281,Hip-Hop
+Jump Around,House of Pain (Fine Malt Lyrics),House Of Pain,7/21/1994,214946,0.0113,0.854,0.71,8.72E-05,0.166,-6.32,0.0793,106.894,Hip-Hop
+Check Yo Self - Remix,Bootlegs And B-Sides,Ice Cube,11/22/1994,273106,0.031,0.934,0.735,8.60E-06,0.107,-6.668,0.251,101.368,Hip-Hop
+Put It On,Lifestylez Ov Da Poor & Dangerous,Big L,3/28/1995,217626,0.0175,0.711,0.62,0,0.134,-10.174,0.212,179.817,Hip-Hop
+The Message,It Was Written,Nas,7/2/1996,234093,0.00776,0.614,0.543,3.28E-05,0.383,-7.178,0.374,178.422,Hip-Hop
+MC's Act Like They Don't Know,KRS-One,KRS-One,10/10/1995,295933,0.0101,0.855,0.798,0.000615,0.628,-4.018,0.237,90.429,Hip-Hop
+Mathematics,Black On Both Sides,Mos Def,10/12/1999,246440,0.0285,0.753,0.749,0,0.0845,-6.132,0.316,93.79,Hip-Hop
+Mind Playing Tricks on Me,We Can't Be Stopped,Geto Boys,7/2/1991,308733,0.207,0.886,0.512,0,0.0991,-11.825,0.237,93.997,Hip-Hop
+Gangsta's Paradise,Gangsta's Paradise,Coolio,11/7/1995,240693,0.0655,0.647,0.514,0,0.398,-10.05,0.0593,79.974,Hip-Hop
+Real Muthaphuckkin' G's,Gangsta Memorial,Eazy-E,1/1/2007,332733,0.0164,0.724,0.853,0,0.65,-3.895,0.283,170.51,Hip-Hop
+Gimme Some More,Extinction Level Event: The Final World Front,Busta Rhymes,1998,158466,0.00832,0.591,0.855,5.87E-05,0.771,-8.339,0.339,136.734,Hip-Hop
+Don't Sweat The Technique,Don't Sweat The Technique,Eric B. & Rakim,1/1/1992,262800,0.00556,0.737,0.89,0.00171,0.0801,-8.443,0.158,105.848,Hip-Hop
+Simon Says,Internal Affairs,Pharoahe Monch,10/18/2019,173373,0.141,0.622,0.913,2.71E-05,0.12,-3.701,0.462,92.222,Hip-Hop
+I Get Around,Strictly 4 My N.I.G.G.A.Z...,2Pac,2/16/1993,259000,0.156,0.846,0.416,9.34E-06,0.238,-13.767,0.118,96.188,Hip-Hop
+"Shame On a Nigga (feat. Raekwon, Ol' Dirty Bastard & Method Man)",Enter The Wu-Tang (36 Chambers) [Expanded Edition],Wu-Tang Clan,11/9/1993,177066,0.0854,0.889,0.466,7.37E-06,0.384,-10.74,0.36,100.17,Hip-Hop
+Who Shot Ya? - 2005 Remaster,Ready to Die (The Remaster),The Notorious B.I.G.,9/13/1994,319360,0.256,0.831,0.682,0,0.494,-5.697,0.238,91.771,Hip-Hop
+Ain't No Half-Steppin',Long Live The Kane,Big Daddy Kane,1/1/1988,319906,0.00569,0.836,0.728,0.000819,0.0649,-12.058,0.234,100.842,Hip-Hop
+They Want EFX,Dead Serious,Das EFX,4/7/1992,221400,0.115,0.755,0.459,0,0.0851,-12.84,0.358,98.454,Hip-Hop
+Fuck Tha Police,Straight Outta Compton,N.W.A.,8/8/1988,345717,0.0193,0.859,0.75,0,0.0538,-8.325,0.303,98.691,Hip-Hop
+Boyz-N-The-Hood,N.W.A. And The Posse,N.W.A.,1/1/1987,339893,0.0417,0.785,0.479,3.50E-05,0.334,-10.247,0.362,87.691,Hip-Hop
+No Vaseline,Death Certificate (25th Anniversary Edition),Ice Cube,6/9/2017,313053,0.179,0.777,0.957,0,0.296,-3.201,0.319,105.756,Hip-Hop
+Keep Their Heads Ringin',Keep Their Heads Ringin',Dr. Dre,3/7/1995,310226,0.0338,0.671,0.737,0.00344,0.0596,-5.131,0.108,90.519,Hip-Hop
+Gangsta Nation,Terrorist Threats,Westside Connection,12/9/2003,293053,0.127,0.843,0.7,0,0.876,-3.249,0.26,95.05,Hip-Hop
+Woo Hah!! Got You All in Check,The Coming,Busta Rhymes,1996,271973,0.127,0.842,0.831,0,0.0881,-7.072,0.242,92.053,Hip-Hop
+Alwayz Into Somethin',Efil4zaggin,N.W.A.,5/28/1991,264960,0.0114,0.709,0.874,0,0.213,-4.522,0.193,88.546,Hip-Hop
+Only God Can Judge Me (ft. Rappin' 4-Tay),All Eyez On Me,2Pac,1996,296906,0.0012,0.803,0.784,0.000161,0.0794,-5.97,0.198,90.185,Hip-Hop
+Know The Ledge,Don't Sweat The Technique,Eric B. & Rakim,1/1/1992,238866,0.0289,0.794,0.88,2.52E-05,0.0683,-9.77,0.162,115.666,Hip-Hop
+Watch Out Now,A Musical Massacre (Explicit),The Beatnuts,8/10/1999,174800,0.0969,0.783,0.633,0.000994,0.154,-6.983,0.291,100.428,Hip-Hop
+What's The Difference,2001,Dr. Dre,11/16/1999,244200,0.223,0.772,0.821,0,0.148,-0.14,0.25,91.921,Hip-Hop
+Gangsta Gangsta,Straight Outta Compton,N.W.A.,8/8/1988,336917,0.0279,0.894,0.698,3.56E-06,0.329,-8.264,0.275,98.104,Hip-Hop
+Ruff Ryders' Anthem,It's Dark And Hell Is Hot,DMX,5/1/1998,214440,0.0564,0.88,0.577,1.02E-06,0.201,-8.093,0.302,90.991,Hip-Hop
+Microphone Fiend,Follow The Leader,Eric B. & Rakim,1988,314600,0.354,0.586,0.795,0,0.187,-8.71,0.258,94.101,Hip-Hop
+Dangerous,When Disaster Strikes...,Busta Rhymes,1997,217640,0.0096,0.913,0.6,0,0.117,-8.446,0.202,103.268,Hip-Hop
+"Nuthin' But A ""G"" Thang",The Chronic,Dr. Dre,12/15/1992,238466,0.00575,0.801,0.699,0,0.146,-8.18,0.279,94.605,Hip-Hop
+Summertime,Homebase,DJ Jazzy Jeff & The Fresh Prince,7/9/1991,270973,0.0455,0.677,0.539,1.84E-06,0.845,-14.439,0.063,95.116,Hip-Hop
+Me Myself And I,"Smooth Hip-Hop, Vol. 2",Various Artists,1/8/1997,224693,0.0711,0.898,0.92,5.92E-05,0.0908,-7.859,0.0636,114.343,Hip-Hop
+Shoop,Very Necessary,Salt-N-Pepa,10/12/1993,248573,0.0915,0.939,0.675,0,0.0565,-7.232,0.211,96.918,Hip-Hop
+Full Clip,Full Clip: A Decade Of Gang Starr,Gang Starr,7/13/1999,217440,0.0227,0.875,0.745,2.37E-06,0.287,-5.878,0.269,95.201,Hip-Hop
+Mama Said Knock You Out,Mama Said Knock You Out,LL Cool J,8/27/1990,289693,0.0314,0.791,0.759,0.674,0.255,-7.378,0.129,102.382,Hip-Hop
+Here Comes the Hotstepper,Reggae Classics,Various Artists,12/28/2007,247466,0.017,0.707,0.525,0.000162,0.0771,-7.356,0.302,200.753,Hip-Hop
+Hate It Or Love It,The Documentary,The Game,2005,206400,0.14,0.802,0.785,0,0.123,-4.781,0.207,99.998,Hip-Hop
+Westside Story,The Documentary,The Game,2005,223066,0.16,0.876,0.647,0,0.238,-3.917,0.28,86.993,Hip-Hop
+Bring The Pain,Tical,Method Man,11/15/1994,189760,0.38,0.835,0.456,0.00359,0.16,-10.195,0.266,101.889,Hip-Hop
+Big Poppa - 2005 Remaster,Ready to Die (The Remaster),The Notorious B.I.G.,9/13/1994,252746,0.43,0.78,0.575,0,0.143,-7.247,0.273,84.492,Hip-Hop
+Bladow!!,Anarchy,Busta Rhymes,6/9/2000,220373,0.0398,0.764,0.705,0.0005,0.0392,-7.39,0.279,88.357,Hip-Hop
+Live It Up,Anarchy,Busta Rhymes,6/9/2000,221960,0.00385,0.958,0.334,1.07E-06,0.113,-8.172,0.345,105.93,Hip-Hop
+Here We Go Again (feat. The Flipmode Squad),Anarchy,Busta Rhymes,6/9/2000,208600,0.0273,0.711,0.717,0,0.336,-8.4,0.343,100.106,Hip-Hop
+"C'mon All My Niggaz, C'mon All My Bitches",Anarchy,Busta Rhymes,6/9/2000,174866,0.0266,0.496,0.589,0,0.0574,-5.962,0.447,71.63,Hip-Hop
+Why We Die (feat. DMX & Jay-Z),Anarchy,Busta Rhymes,6/9/2000,239093,0.000985,0.543,0.7,0,0.107,-6.979,0.345,80.636,Hip-Hop
+Make Noise (feat. Lenny Kravitz),Anarchy,Busta Rhymes,6/9/2000,197960,0.159,0.698,0.818,0,0.631,-8.07,0.398,99.236,Hip-Hop
+Pass The Courvoisier Part II (feat. P. Diddy & Pharrell) - Remix,Genesis,Busta Rhymes,11/7/2001,238600,0.0844,0.697,0.793,0,0.0619,-4.699,0.323,89.767,Hip-Hop
+We Got What You Want,Genesis,Busta Rhymes,11/7/2001,231506,0.00331,0.617,0.462,0,0.12,-5.311,0.49,80.845,Hip-Hop
+Bounce,Genesis,Busta Rhymes,11/7/2001,199493,0.0906,0.594,0.831,0,0.113,-2.966,0.41,78.35,Hip-Hop
+Holla,Genesis,Busta Rhymes,11/7/2001,274706,0.138,0.782,0.789,0.00401,0.104,-4.077,0.478,94.811,Hip-Hop
+Wife In Law (feat. Jaheim) - Alternate Version,Genesis,Busta Rhymes,11/7/2001,243360,0.0657,0.88,0.502,0,0.612,-8.196,0.683,91.103,Hip-Hop
+Ass On Your Shoulders (feat. Kokane),Genesis,Busta Rhymes,11/7/2001,282973,0.071,0.81,0.692,0,0.672,-5.136,0.393,51.451,Hip-Hop
+Make It Hurt,Genesis,Busta Rhymes,11/7/2001,203360,0.0536,0.55,0.88,1.27E-06,0.641,-4.845,0.339,124.274,Hip-Hop
+What It Is (feat. Kelis),Genesis,Busta Rhymes,11/7/2001,218906,0.22,0.937,0.611,3.78E-06,0.0589,-4.631,0.204,100.957,Hip-Hop
+Blue Moon,Solitude,Billie Holiday,1/1/1956,207826,0.982,0.639,0.269,0.12,0.141,-11.435,0.0698,124.866,Jazz
+Say It (Over And Over Again),Ballads (Deluxe Edition - Rudy Van Gelder Remaster),John Coltrane Quartet,1963,255960,0.963,0.488,0.124,0.333,0.246,-13.038,0.0404,66.105,Jazz
+Everything Happens to Me,Chet Baker Sings: It Could Happen To You [Original Jazz Classics Remasters] (OJC Remaster),Chet Baker,1/1/2010,305186,0.809,0.511,0.193,2.17E-05,0.129,-15.148,0.0439,116.348,Jazz
+'Long As You Know You're Living Yours,Belonging,Keith Jarrett,10/1/1974,370866,0.253,0.605,0.376,0.207,0.117,-14.978,0.0322,131.927,Jazz
+This Is Always,Inside Betty Carter,Betty Carter,8/2/1993,191960,0.971,0.417,0.0644,0.000134,0.126,-19.687,0.0359,113.713,Jazz
+All The Things You Are,Ella Fitzgerald Sings The Jerome Kern Songbook,Ella Fitzgerald,1/1/1963,195666,0.938,0.45,0.154,4.37E-06,0.16,-14.485,0.0373,110.666,Jazz
+My One And Only Love,The Gentle Side Of John Coltrane,John Coltrane,1/1/1975,296666,0.988,0.461,0.0546,0.208,0.126,-18.982,0.0362,128.91,Jazz
+Stormy Weather,At Last!,Etta James,1960,187666,0.613,0.262,0.356,0,0.175,-8.031,0.0303,174.176,Jazz
+My Foolish Heart,Waltz For Debby [Original Jazz Classics Remasters] (OJC Remaster),Bill Evans Trio,1961,297320,0.935,0.395,0.121,0.397,0.697,-23.427,0.0327,114.521,Jazz
+Softly As In A Morning Sunrise,Elegance: The Birth Of The Modern Jazz Quartet,The Modern Jazz Quartet,1954,209400,0.709,0.634,0.327,0.0131,0.158,-9.703,0.0551,80.825,Jazz
+But Not For Me - Vocal Version,Chet Baker Sings,Chet Baker,1956,184466,0.934,0.626,0.152,6.05E-05,0.12,-14.182,0.0405,82.174,Jazz
+Night And Day,Ella Fitzgerald Sings The Cole Porter Songbook (Expanded Edition),Ella Fitzgerald,1/15/1997,184093,0.796,0.45,0.285,0,0.0666,-10.087,0.0414,117.494,Jazz
+Hipsippy Blues,Just Coolin',Art Blakey & The Jazz Messengers,7/17/2020,400446,0.713,0.573,0.247,5.64E-05,0.103,-19.282,0.0627,138.234,Jazz
+Misty,Sarah Vaughan's Golden Hits,Sarah Vaughan,7/7/1958,179373,0.976,0.224,0.214,0.00094,0.367,-14.455,0.0348,83.906,Jazz
+Porgy (I Loves You Porgy) - Outtake,Waltz For Debby [Original Jazz Classics Remasters] (OJC Remaster),Bill Evans Trio,1961,360306,0.92,0.389,0.145,0.876,0.656,-22.965,0.0301,99.541,Jazz
+Line For Lyons,Gerry Mulligan - Paul Desmond Quartet (Expanded Edition),Gerry Mulligan,12/1/1957,188960,0.805,0.543,0.133,0.00135,0.125,-16.846,0.1,171.493,Jazz
+Teach Me Tonight,"The Complete Dinah Washington On Mercury, Vol.4 (1954-1956)",Dinah Washington,1/1/1988,167493,0.805,0.558,0.231,0,0.142,-11.436,0.0812,73.103,Jazz
+I Can't Give You Anything But Love,Standards,Sonny Clark,2/10/1998,232306,0.655,0.749,0.152,0.000254,0.086,-16.745,0.0493,101.779,Jazz
+St. Thomas,Saxophone Colossus,Sonny Rollins,1957-04,406266,0.727,0.541,0.607,0.442,0.0997,-8.435,0.0438,104.96,Jazz
+It's A Lovely Day Today,Ella Fitzgerald Sings The Irving Berlin Song Book,Ella Fitzgerald,1/1/1958,148266,0.84,0.573,0.275,0,0.196,-10.684,0.0534,140.9,Jazz
+April In Paris,All Or Nothing At All,Billie Holiday,1/1/1958,185586,0.927,0.496,0.127,7.07E-05,0.132,-14.211,0.0382,74.746,Jazz
+These Foolish Things (Remastered),The Collection,Lester Young,9/1/2014,190933,0.986,0.593,0.103,0.6,0.12,-14.961,0.081,66.283,Jazz
+The Way You Look Tonight - 2003 Remastered,The Complete RCA Victor Recordings,Paul Desmond,1963,439506,0.815,0.703,0.187,0.000492,0.225,-16.273,0.0676,126.164,Jazz
+I'll Remember April - Instrumental,Chet In Paris,Chet Baker,1/1/2000,352293,0.768,0.435,0.499,0.107,0.131,-8.576,0.0317,121.924,Jazz
+Autumn In New York,Ella And Louis Again,Ella Fitzgerald,2/25/1957,356626,0.955,0.425,0.0469,0,0.137,-18.612,0.0354,135.335,Jazz
+Someone To Watch Over Me,Lee Konitz Meets Jimmy Giuffre,Lee Konitz,1/1/1959,216360,0.987,0.419,0.0284,0.586,0.105,-24.09,0.0357,71.502,Jazz
+Louise,Hamp & Getz,Lionel Hampton,1/1/1955,407800,0.947,0.781,0.106,0.0835,0.12,-17.396,0.0584,113.528,Jazz
+Moon River,Jazz Impressions Of Black Orpheus [Original Jazz Classics Remasters] (OJC Remaster),Vince Guaraldi Trio,1/1/2010,321026,0.987,0.319,0.157,0.849,0.138,-19.728,0.0368,191.259,Jazz
+Bye Bye Blackbird,Don't Go To Strangers (Rudy Van Gelder Remaster),Etta Jones,1/1/1960,194240,0.867,0.71,0.318,0.00038,0.169,-8.948,0.0432,126.05,Jazz
+Give Me The Simple Life,Alexandria The Great,Lorez Alexandria,1/1/1964,140520,0.879,0.716,0.133,0,0.0966,-15.846,0.0421,62.14,Jazz
+Dedicated To You,John Coltrane & Johnny Hartman,John Coltrane,1963,330426,0.977,0.413,0.0552,0.00091,0.185,-18.538,0.0346,107.842,Jazz
+It Never Entered My Mind,Coleman Hawkins Encounters Ben Webster (Expanded Edition),Coleman Hawkins,11/1/1959,346920,0.958,0.564,0.097,0.0588,0.119,-16.442,0.038,132.653,Jazz
+How Long Has This Been Going On?,Ella Sings Gershwin,Ella Fitzgerald,9/11/1950,197666,0.974,0.303,0.175,1.32E-06,0.105,-14.203,0.0378,168.743,Jazz
+O Pato,Jazz Samba,Stan Getz,1/1/1962,149080,0.86,0.608,0.387,0.662,0.187,-20.157,0.0411,91.489,Jazz
+You Go To My Head - 2020 Mix,Nice 'n' Easy (2020 Mix),Frank Sinatra,7/25/1960,266800,0.965,0.147,0.215,0.000928,0.184,-14.594,0.0346,171.46,Jazz
+"KÃƒÂ¶ln, January 24, 1975, Pt. II C - Live",The KÃƒÂ¶ln Concert,Keith Jarrett,11/30/1975,416840,0.973,0.27,0.688,0.884,0.669,-16.305,0.0547,75.845,Jazz
+Windows,The Best Of Chick Corea,Chick Corea,1/1/1993,191933,0.673,0.503,0.344,0.381,0.096,-19.024,0.0369,108.489,Jazz
+Stormy Weather,Plays the Harold Arlen Song Book,Oscar Peterson,1/1/2001,213386,0.99,0.652,0.171,0.864,0.158,-16.1,0.0569,118.883,Jazz
+Almost Like Being In Love,Red Garland's Piano,Red Garland,1957,290293,0.873,0.561,0.346,0.399,0.104,-12.596,0.0409,93.689,Jazz
+I'm A Fool To Want You,Ballads,Dexter Gordon,1/1/1991,405226,0.978,0.497,0.153,0.809,0.138,-12.65,0.0407,100.222,Jazz
+Stolen Moments,The Awakening,Ahmad Jamal Trio,1970,392026,0.89,0.476,0.273,0.9,0.0978,-17.457,0.0334,117.779,Jazz
+Love For Sale,Jazz Queens of the 50's,Various Artists,10/8/2013,164840,0.716,0.499,0.434,0,0.165,-11.48,0.0735,119.134,Jazz
+Solitude,Solitude,Billie Holiday,1/1/1956,207600,0.984,0.462,0.15,0.000902,0.105,-13.531,0.0522,98.66,Jazz
+I Fall In Love Too Easily,Moon Beams [Original Jazz Classics Remasters],Bill Evans Trio,1962,162680,0.955,0.476,0.0794,0.872,0.112,-19.166,0.0365,103.181,Jazz
+Alone Together,Things Are Swingin',Peggy Lee,5/4/1959,127800,0.75,0.589,0.386,0,0.15,-8.013,0.0441,142.371,Jazz
+Blue Monk - Rudy Van Gelder Remaster,Thelonious Monk,Thelonious Monk,1954,456360,0.66,0.444,0.339,0.103,0.163,-16.936,0.0418,142.112,Jazz
+Foolin' Myself,Motion,Lee Konitz,1/1/1961,417320,0.537,0.493,0.295,0.241,0.241,-15.536,0.0489,99.579,Jazz
+Cheek To Cheek,Ella and Louis,Ella Fitzgerald,3/7/2000,353266,0.573,0.655,0.31,0,0.119,-13.4,0.0866,121.999,Jazz
+For Lena And Lennie,The Quintessence,Quincy Jones,1962,259413,0.84,0.437,0.0857,0.641,0.0898,-18.129,0.0384,73.161,Jazz
+Cheek To Cheek,Ella Fitzgerald Sings The Irving Berlin Song Book,Ella Fitzgerald,1/1/1958,228066,0.766,0.632,0.202,0,0.146,-13.068,0.0587,134.298,Jazz
+I Get Along Without You Very Well (Except Sometimes) - Vocal Version,Chet Baker Sings,Chet Baker,1956,179640,0.922,0.442,0.033,0.000171,0.151,-23.063,0.041,103.34,Jazz
+What's The Rush,Gerry Mulligan Meets Johnny Hodges,Gerry Mulligan,1/1/1959,222360,0.97,0.405,0.0277,0.535,0.114,-21.897,0.033,51.059,Jazz
+Skating In Central Park,Undercurrent,Bill Evans,1962,324200,0.993,0.478,0.0294,0.948,0.105,-25.319,0.0453,124.308,Jazz
+On The Sunny Side Of The Street,Sonny Side Up,Sonny Rollins,1/1/1957,340960,0.532,0.662,0.331,0.000125,0.253,-12.712,0.0581,120.228,Jazz
+"Straight, No Chaser","Straight, No Chaser",Thelonious Monk,1967,688133,0.41,0.465,0.35,0.279,0.135,-12.977,0.0403,93.336,Jazz
+Four,Workin',Miles Davis Quintet,1959,433106,0.558,0.484,0.635,0,0.366,-7.109,0.043,99.308,Jazz
+Four Brothers,Art Pepper + Eleven: Modern Jazz Classics,Art Pepper,1/1/1959,178533,0.673,0.492,0.583,2.38E-06,0.201,-9.927,0.19,73.64,Jazz
+Summertime,Charlie Parker With Strings: Complete Master Takes,Charlie Parker,1/1/1995,166133,0.704,0.356,0.324,0.0025,0.204,-8.699,0.0289,88.861,Jazz
+Joy Spring,Clifford Brown And Max Roach,Clifford Brown,12/1/1954,410666,0.702,0.654,0.334,0.714,0.114,-12.662,0.0521,81.544,Jazz
+Autumn Leaves,My Funny Valentine: The Best Of Chet Baker,Chet Baker,4/23/2010,423573,0.779,0.496,0.634,0.402,0.0746,-10.328,0.0364,93.357,Jazz
+Dream A Little Dream Of Me - Single Version,"Love, Ella",Ella Fitzgerald,5/3/2007,185160,0.913,0.443,0.104,0,0.191,-17.042,0.101,76.497,Jazz
+The Girl From Ipanema,Stan Getz: The Bossa Nova Albums,Stan Getz,1/1/2008,317986,0.867,0.641,0.14,0.00166,0.105,-16.79,0.039,129.318,Jazz
+You Don't Know What Love Is,Lady In Satin,Billie Holiday,1958-06,228133,0.822,0.215,0.247,7.50E-05,0.355,-15.11,0.0354,86.391,Jazz
+There Will Never Be Another You,The President Plays With The Oscar Peterson Trio,Lester Young,6/2/1959,205666,0.978,0.588,0.0387,0.823,0.116,-17.944,0.06,83.4,Jazz
+'Round Midnight,"Genius Of Modern Music (Vol.1, Expanded Edition)",Thelonious Monk,1951,193840,0.907,0.542,0.32,0.649,0.0609,-9.975,0.0387,116.648,Jazz
+Two Not One,Lee Konitz with Warne Marsh,Lee Konitz,10/18/2005,331266,0.627,0.624,0.383,5.44E-06,0.0963,-10.561,0.0633,117.526,Jazz
+Until The Real Thing Comes Along,Soul,Coleman Hawkins,1/1/1958,282666,0.769,0.5,0.208,0.496,0.372,-14.235,0.0743,180.852,Jazz
+You Don't Know What Love Is,For Those In Love (Expanded Edition),Dinah Washington,1/1/1955,245000,0.966,0.516,0.101,3.89E-05,0.0906,-12.753,0.0513,137.832,Jazz
+It Could Happen To You,Relaxin' With The Miles Davis Quintet,Miles Davis Quintet,1958,396960,0.451,0.623,0.403,1.13E-05,0.448,-11.121,0.0426,93.911,Jazz
+Cloe,Intercontinental,Joe Pass,8/12/2014,321951,0.939,0.483,0.186,0.873,0.115,-21.824,0.0409,150.87,Jazz
+Makin' Whoopee,Soulville,The Ben Webster Quintet,1/1/1957,271893,0.883,0.529,0.0582,0.125,0.116,-19.131,0.0617,93.486,Jazz
+Lover Man,Lover Man,Billie Holiday,1/1/1958,197706,0.921,0.365,0.136,0,0.103,-12.42,0.0436,64.212,Jazz
+Body and Soul,Body & Soul,Coleman Hawkins,5/21/1996,182360,0.976,0.659,0.113,0.88,0.179,-16.756,0.0569,95.063,Jazz
+Tea for Two,Piano Starts Here,Art Tatum,1933,193866,0.991,0.358,0.452,0.864,0.14,-13.02,0.0347,166.973,Jazz
+A Day In The Life,Wes Montgomery: Finest Hour,Wes Montgomery,1/1/2000,354973,0.769,0.476,0.251,0.774,0.0637,-13.854,0.0278,98.833,Jazz
+I Remember You,Motion,Lee Konitz,1/1/1961,266706,0.794,0.564,0.305,0.0983,0.152,-14.224,0.063,115.739,Jazz
+How Long Has This Been Going On,"Ben And ""Sweets""",Ben Webster,1962,330693,0.99,0.529,0.0367,0.31,0.127,-21.63,0.0515,140.296,Jazz
+Crystal Silence,Return To Forever,Chick Corea,7/1/1972,415000,0.985,0.203,0.0186,0.377,0.0728,-24.277,0.0408,76.591,Jazz
+You'd Be So Nice to Come Home To,Art Pepper Meets The Rhythm Section (OJC Remaster),Art Pepper,1957,327773,0.388,0.664,0.422,0.000107,0.0626,-11.738,0.0552,89.263,Jazz
+"Take the ""A"" Train",Jazz Profiles,Duke Ellington,7/14/2008,332640,0.272,0.5,0.284,0.0432,0.12,-15.59,0.0404,93.724,Jazz
+All of Me,Lady Day: The Complete Billie Holiday On Columbia (1933-1944),Billie Holiday,1933,181440,0.972,0.504,0.0644,4.36E-06,0.174,-14.754,0.0408,106.994,Jazz
+Solar - Rudy Van Gelder Remaster,Walkin',Miles Davis,1957,282866,0.864,0.636,0.181,0.00251,0.0706,-17.511,0.0456,84.203,Jazz
+Lullaby Of Birdland,Sarah Vaughan,Sarah Vaughan,12/1/1954,240866,0.813,0.578,0.351,0,0.123,-12.432,0.101,122.712,Jazz
+My Funny Valentine,Chet Baker Sings,Chet Baker,1956,141133,0.941,0.438,0.00756,0.00643,0.109,-26.44,0.0382,133.32,Jazz
+I've Got A Crush On You,Ella Sings Gershwin,Ella Fitzgerald,9/11/1950,196440,0.986,0.455,0.106,0,0.122,-14.086,0.0422,66.807,Jazz
+So Tender,"Standards, Vol. 2",Keith Jarrett,1983,435266,0.818,0.373,0.302,0.835,0.171,-20.358,0.0376,86.925,Jazz
+Footprints,Miles Smiles,Miles Davis,1967-01,585960,0.128,0.402,0.409,0.000568,0.0947,-13.95,0.0363,130.681,Jazz
+Blue Bossa - Remastered,Page One,Joe Henderson,10/1/1963,482440,0.911,0.531,0.366,0.88,0.0916,-11.697,0.0496,81.867,Jazz
+Have You Met Miss Jones?,We Get Requests,Oscar Peterson Trio,1964,253840,0.861,0.698,0.0926,0.49,0.0887,-20.716,0.05,81.187,Jazz
+A Nightingale Sang In Berkeley Square,Recorded Fall '61,Stan Getz,1/1/1961,419626,0.951,0.425,0.0429,0.0184,0.148,-24.86,0.0408,96.097,Jazz
+It's Only A Paper Moon,The War Years (1941-1947),Ella Fitzgerald,9/13/1994,160133,0.944,0.761,0.103,0,0.127,-16.964,0.0416,114.044,Jazz
+Just Friends,After Hours,Sarah Vaughan,4/12/1955,181493,0.952,0.203,0.306,0.000307,0.281,-12.366,0.0344,76.905,Jazz
+Young And Foolish,Everybody Digs Bill Evans,Bill Evans,1959,354666,0.973,0.438,0.0172,0.557,0.0815,-23.66,0.0384,100.989,Jazz
+Autumn Nocturne,Blues Walk,Lou Donaldson,1958,294666,0.967,0.539,0.0678,0.168,0.114,-18.039,0.0468,124.105,Jazz
+Blue World,Blue World,John Coltrane,8/16/2019,368253,0.732,0.477,0.733,0.0756,0.153,-8.301,0.0682,120.42,Jazz
+Never Will I Marry,Nancy Wilson/Cannonball Adderley,Nancy Wilson,1962,139200,0.631,0.589,0.184,0,0.0819,-12.282,0.049,98.365,Jazz
+Let's Do It,That Bad Eartha,Eartha Kitt,1957,185466,0.874,0.653,0.0518,1.94E-06,0.242,-19.594,0.0359,96.591,Jazz
+Weaver Of Dreams - Remastered 2003/Rudy Van Gelder Edition,Ready For Freddie (Rudy Van Gelder Remaster Edition),Freddie Hubbard,1961,395560,0.912,0.418,0.227,0.822,0.0956,-15.537,0.0379,103.586,Jazz
+Stella By Starlight (feat. John Coltrane & Bill Evans),Kind Of Blue (Legacy Edition),Miles Davis,8/17/1959,284560,0.912,0.47,0.144,0.000118,0.0965,-12.824,0.0365,84.787,Jazz
+I'll Never Smile Again,In The Land Of Hi Fi,Sarah Vaughan,1/1/1955,153706,0.939,0.279,0.129,0.000229,0.204,-14.595,0.0326,59.991,Jazz
+"Pavane, Op. 50",Classic Williams -- Romance of the Guitar,John Williams,1984,306800,0.976,0.345,0.0534,0.892,0.112,-24.109,0.03,143.742,Classical
+<3,<3 - Single,Thomas Bergersen,3/18/2011,189360,0.921,0.145,0.126,0.784,0.0733,-14.125,0.0359,66.381,Classical
+"Beethoven: Piano Concerto No. 5 in E-Flat Major, Op. 73, ""Emperor"": II. Adagio un poco mosso (Arr. for Harp)",Relax,Various Artists,9/8/2008,421733,0.973,0.372,0.0556,0.862,0.11,-25.647,0.041,183.835,Classical
+"Pavane pour une infante dÃƒÂ©funte (Pavane for a Dead Princess), M. 19",The 50 Most Essential Relaxing Classics,Various Artists,11/30/2010,398840,0.973,0.173,0.0893,0.942,0.13,-26.387,0.0383,74.082,Classical
+The Universal,The Alternative Classical Chillout Album,Royal Philharmonic Orchestra,2002,200400,0.801,0.373,0.0799,0.181,0.0988,-16.334,0.0329,143.075,Classical
+Soul Destination,Soul Destination,Matthias De Jaeger,11/25/2021,162744,0.99,0.405,0.0683,0.93,0.118,-19.082,0.0471,121.822,Classical
+"Horner: My Heart Will Go On (Love Theme From ""Titanic"") [Arr. for Orchestra]",50 Best Film,Various Artists,9/6/2010,262466,0.894,0.0896,0.225,0.902,0.148,-15.439,0.0372,73.044,Classical
+Sheep may safely graze from Cantata No. 208 (arr. Marriner),100 Best Relaxing Classics,Various Artists,4/20/2007,279360,0.959,0.204,0.0816,0.943,0.123,-22.315,0.0442,109.15,Classical
+"Morricone: Gabriel's Oboe (From ""The Mission"")",Relax,Various Artists,9/8/2008,134613,0.921,0.245,0.123,0.893,0.0752,-21.068,0.041,60.832,Classical
+Barry: You Only Live Twice (Main Theme),50 Best Film,Various Artists,9/6/2010,176853,0.69,0.131,0.169,0.711,0.353,-18.479,0.0327,79.409,Classical
+3 GymnopÃƒÂ©dies: 1. Lent et douloureux,Classical Chillout,Various Artists,4/27/2009,195506,0.996,0.455,0.0285,0.959,0.102,-34.835,0.0794,79.452,Classical
+"Mozart: Clarinet Concerto in A Major, K. 622: II. Adagio",Relax,Various Artists,9/8/2008,399000,0.98,0.12,0.0384,0.768,0.104,-23.13,0.0425,92.792,Classical
+"Handel / Arr. Hale: Keyboard Suite in D Minor, HWV 437: III. Sarabande (Arr. Hale for Orchestra)",Classical Chillout,Various Artists,4/27/2009,205840,0.918,0.21,0.0514,0.813,0.1,-21.496,0.0455,111.475,Classical
+"Vivaldi: Violin Concerto in F Minor, RV 297, ""L'inverno"": II. Largo (from ""Il cimento dell'armonia e dell'inventione"", Op. 8, No. 4)",Relax,Various Artists,9/8/2008,128800,0.888,0.234,0.106,0.00298,0.277,-24.16,0.0586,141.982,Classical
+Mascagni: Cavalleria Rusticana - Intermezzo,50 Best Film,Various Artists,9/6/2010,223786,0.769,0.101,0.115,0.891,0.406,-17.553,0.0392,84.976,Classical
+"Concerto for Violin, Oboe and Strings in D minor BWV 1060 - 1991 Remastered Version",Classical Chillout,Various Artists,4/27/2009,357453,0.797,0.194,0.136,0.144,0.321,-23.987,0.0418,77.767,Classical
+Jenkins: The Armed Man (A Mass for Peace): X. Agnus Dei,Relax,Various Artists,9/8/2008,218520,0.981,0.239,0.134,0.828,0.0781,-19.858,0.0345,55.53,Classical
+Shore: Lord of the Rings: The Fellowship,50 Best Film,Various Artists,9/6/2010,354600,0.842,0.0812,0.197,0.956,0.115,-17.511,0.0452,81.912,Classical
+Mozart: Piano Concerto No. 21 in C K467 'Elvira Madigan': II. Andante,100 Best Relaxing Classics,Various Artists,4/20/2007,408613,0.986,0.229,0.0637,0.949,0.0921,-24.687,0.035,96.28,Classical
+"Giazzotto: Adagio for Strings and Organ in G Minor, ""Albinoni's Adagio"" (Excerpt)",Relax,Various Artists,9/8/2008,352146,0.679,0.0958,0.0981,0.76,0.121,-20.357,0.0432,86.385,Classical
+Braveheart-End Titles,50 Best Film,Various Artists,9/6/2010,426560,0.745,0.0954,0.0781,0.699,0.0883,-21.151,0.0388,87.94,Classical
+"Vaughan Williams: The Lark Ascending, for Violin and Orchestra (Excerpt, Opening)",Relax,Various Artists,9/8/2008,385266,0.848,0.146,0.0774,0.456,0.0953,-25.384,0.0427,102.456,Classical
+"Nyman: Music for Jane Campion's Film ""The Piano"": No. 4 ""The Heart Asks Pleasure First"" - No. 6 ""The Promise""",Classical Chillout,Various Artists,4/27/2009,192973,0.96,0.229,0.227,0.944,0.0948,-16.967,0.0298,177.313,Classical
+"Mozart: Flute and Harp Concerto in C Major, K. 299/297c (Excerpt): II. Andantino - 1985 Remastered Version",Relax,Various Artists,9/8/2008,240773,0.981,0.264,0.113,0.934,0.107,-19.86,0.0407,116.989,Classical
+Sanctus,Classical Chillout,Various Artists,4/27/2009,189080,0.941,0.181,0.174,0.775,0.141,-16.683,0.0373,97.736,Classical
+"Elgar: Variations on a Theme, Op. 36, ""Enigma"": IX. Nimrod (Adagio)",Relax,Various Artists,9/8/2008,237160,0.981,0.0618,0.19,0.801,0.105,-16.299,0.038,59.032,Classical
+Saving Private Ryan - Hymn to the Fallen,50 Best Film,Various Artists,9/6/2010,365026,0.85,0.21,0.149,0.932,0.124,-18.826,0.0363,127.415,Classical
+En Aranjuez Con Tu Amor,Classical Chillout,Various Artists,4/27/2009,325093,0.971,0.247,0.0352,0.00863,0.0803,-19.278,0.0455,129.192,Classical
+"Beethoven: Piano Sonata No. 14 in C-Sharp Minor, Op. 27 No. 2, ""Moonlight"": I. Adagio sostenuto (Excerpt)",Relax,Various Artists,9/8/2008,237120,0.996,0.276,0.0127,0.918,0.148,-34.464,0.0485,75.004,Classical
+"Williams, J.: Schindler's List: No. 1, Main Theme",Classical Chillout,Various Artists,4/27/2009,304960,0.844,0.163,0.137,0.904,0.0821,-18.245,0.0447,82.91,Classical
+"Shostakovich: The Gadfly (Suite), Op. 97a: No. 8, Romance (Arr. for Violin and Piano)",Relax,Various Artists,9/8/2008,195386,0.967,0.109,0.0568,0.607,0.0939,-24.737,0.0496,175.4,Classical
+"Mozart: Symphony No. 40 in G Minor, K. 550: I. Molto allegro (Excerpt)",50 Best Film,Various Artists,9/6/2010,336013,0.979,0.384,0.213,0.904,0.103,-15.808,0.0381,111.392,Classical
+Jenkins / Arr Ratledge: Adiemus: Adiemus,Classical Chillout,Various Artists,4/27/2009,237426,0.821,0.284,0.405,0.219,0.174,-16.582,0.0654,150.121,Classical
+"Pachelbel: Canon and Gigue in D Major for 3 Violins and Continuo, P. 37: I. Canon (Orchestral Version)",Relax,Various Artists,9/8/2008,302093,0.748,0.13,0.158,0.924,0.1,-16.132,0.035,85.031,Classical
+Morricone: Chi Mai,Classical Chillout,Various Artists,4/27/2009,308760,0.516,0.376,0.133,0.664,0.0872,-19.173,0.0307,96.3,Classical
+"Grieg: Peer Gynt, Act 4: No. 1. Morning Mood",Relax,Various Artists,9/8/2008,257920,0.968,0.145,0.0401,0.946,0.217,-20.864,0.0419,75.074,Classical
+Mandolin Concerto in C RV425 (1970 Digital Remaster): I. [Allegro],50 Best Film,Various Artists,9/6/2010,179626,0.766,0.432,0.284,0.808,0.207,-18.513,0.0384,89.855,Classical
+"Rodrigo: Concierto de Aranjuez: II. Adagio (Excerpt, Opening)",Relax,Various Artists,9/8/2008,285186,0.957,0.287,0.0341,0.933,0.114,-25.228,0.0357,144.288,Classical
+Ashokan Farewell,Ashokan Farewell . Beautiful Dreamer (Songs Of Stephen Foster),Jay Ungar,1/1/2007,310840,0.949,0.167,0.0995,0.00311,0.0671,-17.395,0.0378,81.377,Classical
+Rutter: Requiem: Pie Jesu,Rutter: Requiem,John Rutter,3/1/1998,215866,0.97,0.153,0.0484,0.111,0.0825,-26.768,0.0406,59.023,Classical
+"Bach, JS: Orchestral Suite No. 3 in D Major, BWV 1068: II. Air",50 Best Film,Various Artists,9/6/2010,215306,0.857,0.11,0.198,0.89,0.108,-19.806,0.0415,90.64,Classical
+II. Romanze (Andante),The Most Relaxing Mozart Album In The World... Ever!,Wolfgang Amadeus Mozart,1/1/2006,517973,0.977,0.189,0.017,0.942,0.0969,-28.915,0.0342,75.119,Classical
+"Handel: Concerto Grosso in B Minor, Op. 6 No. 12, HWV 330: III. Larghetto e piano",Handel: Water Music/Sonatas etc.,George Frideric Handel,5/1/1999,254693,0.932,0.12,0.119,0.752,0.118,-18.348,0.043,82.702,Classical
+Saint-SaÃƒÂ«ns / Arr. Hazell: Le carnaval des animaux: XIII. Le cygne,50 Best Romantic Classics,Various Artists,2/26/2010,198000,0.978,0.115,0.0597,0.94,0.107,-24.522,0.0428,85.33,Classical
+"Chopin: Nocturne No. 2 in E-Flat Major, Op. 9 No. 2",Chopin: Nocturnes [Complete],FrÃƒÂ©dÃƒÂ©ric Chopin,1992,292706,0.99,0.428,0.0299,0.918,0.145,-25.039,0.0417,99.41,Classical
+Serenade,Classical Chill Out,The Royal Chill Out Orchestra,1/28/2011,271493,0.969,0.264,0.112,0.835,0.1,-15.968,0.041,80.691,Classical
+Canon,Classical Chill Out,The Royal Chill Out Orchestra,1/28/2011,342000,0.263,0.18,0.276,0.905,0.139,-12.433,0.0349,82.515,Classical
+Greensleeves,Classical Study Music,Classical Study Music,7/12/2010,102293,0.995,0.504,0.0877,0.933,0.0805,-20.134,0.0534,132.576,Classical
+River Waltz,The Painted Veil,Lang Lang,1/1/2006,142560,0.95,0.51,0.0644,0.974,0.059,-23.718,0.0383,116.02,Classical
+Scheherazade Op.35 - The Young Prince and Princess,This Is Classical - The Universe's Best Easy Listening Album Of All Time,Various Artists,5/10/2006,103733,0.987,0.167,0.118,0.946,0.209,-24.694,0.0413,128.963,Classical
+Chanson de matin,"English Fantasia: Vaughan Williams, Delius & Elgar",Britten Sinfonia,7/16/1998,180266,0.93,0.128,0.153,0.895,0.118,-20.475,0.0486,170.956,Classical
+Fantasia on Greensleeves,"English Fantasia: Vaughan Williams, Delius & Elgar",Britten Sinfonia,7/16/1998,251933,0.924,0.108,0.0533,0.717,0.0873,-28.737,0.041,87.446,Classical
+By The Sleepy Lagoon,The Best Of British Light Music,Vernon Handley,7/16/1997,231173,0.947,0.076,0.0476,0.877,0.196,-28.166,0.0382,79.679,Classical
+"Shostakovich: Piano Concerto No. 2 in F Major, Op. 102: II. Andante",Essential Adagios,Various Artists,1/18/2010,369226,0.986,0.197,0.0202,0.898,0.158,-27.563,0.0362,80.692,Classical
+The Four Seasons: 'Winter' [Concerto in F minor op. 8 no.4]: Largo,Vivaldi: The Four Seasons,Antonio Vivaldi,1998,117933,0.227,0.255,0.0478,0.000566,0.0587,-29.99,0.0469,78.298,Classical
+"Concerto in A minor RV461 No.5 for oboe, strings and continuo: Larghetto",Vivaldi: The Four Seasons,Antonio Vivaldi,1998,166066,0.956,0.194,0.0224,0.36,0.181,-29.814,0.0529,84.808,Classical
+"Violin Sonata No.3 in D minor, Op.108: II: Adagio",Brahms: Complete Violin Sonatas,Johannes Brahms,7/5/2010,286253,0.947,0.142,0.016,0.161,0.0976,-32.111,0.0436,101.201,Classical
+"The Nutcracker, Op. 71: No. 12, Divertissement: Dance of the Flutes",Tchaikovsky: The Nutcracker: Highlights,Pyotr Ilyich Tchaikovsky,3/7/1989,153226,0.931,0.363,0.0479,0.939,0.143,-29.101,0.0392,126.688,Classical
+"La campanella in G-Sharp Minor (From ""Grandes ÃƒÂ©tudes de Paganini"", S. 141 / 3)",Liszt - My Piano Hero,Franz Liszt,8/22/2011,287986,0.931,0.28,0.287,0.888,0.0762,-22.167,0.0367,87.953,Classical
+"Xerxes, Act 1: ""Ombra mai fu""",Relax Classics,Various Artists,10/30/2012,251186,0.927,0.204,0.138,0.936,0.125,-17.897,0.0419,112.174,Classical
+"Piano Concerto No.2 In F Minor, Op.21: 2. Larghetto",Chopin,FrÃƒÂ©dÃƒÂ©ric Chopin,1/1/2012,582080,0.981,0.188,0.0324,0.93,0.0997,-27.706,0.0397,71.6,Classical
+The Way You Look Tonight,Kern / Porter Favorites,Morton Gould and His Orchestra,12/7/2012,269000,0.802,0.0927,0.224,0.932,0.14,-16.665,0.043,168.455,Classical
+Greensleeves,"Classical Chillout - Mozart, Chopin + Bach",Wolfgang Amadeus Mozart,2/14/2014,143587,0.979,0.454,0.143,0.951,0.0995,-16.309,0.0458,107.196,Classical
+Nuvole Bianche,The Classical Album 2011,Various Artists,1/1/2010,356226,0.953,0.197,0.112,0.864,0.0992,-20.286,0.0576,137.638,Classical
+"Liz On Top Of The World - From ""Pride & Prejudice"" Soundtrack",Pride and Prejudice OST,Jean-Yves Thibaudet,1/1/2005,82773,0.975,0.217,0.117,0.911,0.0573,-21.398,0.0374,46.755,Classical
+Together We Will Live Forever,The Fountain OST,Clint Mansell,11/10/2006,301733,0.994,0.483,0.0176,0.928,0.0912,-25.501,0.052,76.384,Classical
+"String Quintet in E Major, Op. 13: Minuet",The 50 Most Essential Relaxing Classics,Various Artists,11/30/2010,228093,0.959,0.581,0.0621,0.29,0.318,-21.149,0.0312,88.869,Classical
+De Usuahia a la Quiaca,Motorcycle Diaries,Gustavo Santaolalla,1/1/2004,168773,0.627,0.492,0.387,0.579,0.0941,-13.949,0.0408,149.478,Classical
+Greensleeves,Journey to the New World,Sharon Isbin,3/24/2009,309173,0.992,0.393,0.0444,0.87,0.0869,-23.541,0.0491,82.137,Classical
+Serenade for String Orchestra: Larghetto,Elgar: Enigma Variations,Paul Daniel,1998,335066,0.941,0.0878,0.04,0.933,0.117,-30.104,0.044,85.225,Classical
+Swan Lake: No. 13 Danses des cygnes: Tempo di valse,Tchaikovsky: Swan Lake (Complete),Pyotr Ilyich Tchaikovsky,1993,118093,0.96,0.153,0.0551,0.788,0.117,-23.94,0.0412,149.959,Classical
+Swan Lake: No. 27 Danses des Petites Cygnes,Tchaikovsky: Swan Lake (Complete),Pyotr Ilyich Tchaikovsky,1993,284293,0.966,0.185,0.0312,0.942,0.116,-26.226,0.0382,97.198,Classical
+The Four Seasons: 'Autumn' (Concerto in F op.8 no.3): Adagio molto,Vivaldi: The Four Seasons,Antonio Vivaldi,1998,132626,0.275,0.18,0.00911,0.283,0.0975,-40.841,0.0387,66.929,Classical
+Trout Quintet: Andante,Schubert: Trout Quintet,Franz Schubert,7/16/1997,434333,0.961,0.315,0.032,0.337,0.101,-29.387,0.0453,103.758,Classical
+"Ellen's Chants, D. 839: Ave Maria",The 50 Most Essential Relaxing Classics,Various Artists,11/30/2010,326173,0.906,0.129,0.22,0.0104,0.107,-16.575,0.0444,80.848,Classical
+Design for Life,The Alternative Classical Chillout Album,Royal Philharmonic Orchestra,2002,243440,0.223,0.391,0.444,0.702,0.113,-13.66,0.0297,143.299,Classical
+Violin Concerto in A minor BWV 1041: Andante,"Bach: Violin Concertos BWV 1041, 1042, 1043, 1060",Johann Sebastian Bach,1997,356840,0.943,0.177,0.0737,0.333,0.132,-22.837,0.0648,184.869,Classical
+Ave Maria (after J.S. Bach),The 50 Most Essential Relaxing Classics,Various Artists,11/30/2010,154400,0.985,0.151,0.227,0.981,0.103,-16.3,0.049,89.29,Classical
+"Violin Concerto in D Major, Op.61: Larghetto",Beethoven & Mendelssohn Violin Concertos,Maria Bachmann,7/16/1998,573093,0.94,0.184,0.00984,0.236,0.071,-32.951,0.0473,98.178,Classical
+"Motet in D Major for Choir and Orchestra, K. 618: Ave Verum Corpus",The 50 Most Essential Relaxing Classics,Various Artists,11/30/2010,98813,0.99,0.199,0.132,0.962,0.102,-22.293,0.0444,114.158,Classical
+"Violin Sonata in A major, FWV 8: IV. Allegretto poco mosso",French Impressions,Joshua Bell,1/6/2012,364093,0.958,0.25,0.135,0.0349,0.0477,-18.615,0.0488,94.404,Classical
+Aibilene,The Help,Thomas Newman,9/13/2011,187293,0.967,0.444,0.0828,0.965,0.0968,-20.891,0.0447,123.038,Classical
+Spiegel im Spiegel for Violin and Piano (1978),The 50 Most Essential Relaxing Classics,Various Artists,11/30/2010,515039,0.68,0.243,0.00254,0,0.0491,-47.882,0.0341,92.904,Classical
+An Odd Discovery Beyond The Trees,The Boy In The Striped Pyjamas,James Horner,1/1/2008,171270,0.991,0.0785,0.0347,0.981,0.0576,-27.897,0.0412,174.79,Classical
+"Theme (From ""Downton Abbey"")",Downton Abbey,The City of Prague Philharmonic Orchestra,9/28/2012,261381,0.878,0.297,0.301,0.796,0.12,-11.754,0.0323,162.21,Classical
+Cavatina,The 50 Most Essential Relaxing Classics,Various Artists,11/30/2010,239640,0.988,0.298,0.0875,0.943,0.103,-22.874,0.0433,78.675,Classical
+"String Quartet No. 1 in D Major, Op. 11: II. Andante cantabile",The 50 Most Essential Relaxing Classics,Various Artists,11/30/2010,374400,0.891,0.111,0.0386,0.00485,0.161,-27.943,0.054,171.518,Classical
+"Nocturne No. 2 in E-Flat Major, Op. 9",The 50 Most Essential Relaxing Classics,Various Artists,11/30/2010,293160,0.992,0.429,0.0293,0.877,0.0784,-24.895,0.0368,101.049,Classical
+"Pavane, Op. 50",The 50 Most Essential Relaxing Classics,Various Artists,11/30/2010,307480,0.981,0.105,0.112,0.874,0.123,-20.419,0.0377,81.65,Classical
+"Pavane, Op. 50 (Arr. for Saxophone and Orchestra)",Dusk & Dawn (Special Edition),Amy Dickson,9/27/2013,428066,0.97,0.174,0.122,0.895,0.102,-16.03,0.0401,117.352,Classical
+As You Like It - Violin Romance,Varese Sarabande - A 30th Anniversary Celebration,Various Artists,11/25/2008,304040,0.877,0.196,0.226,0.339,0.0496,-17.265,0.0421,133.427,Classical
+"Concerto a cinque No. 2 in D Minor for Oboe and Strings, Op. 9: II. Adagio",The 50 Most Essential Relaxing Classics,Various Artists,11/30/2010,318600,0.965,0.248,0.24,0.859,0.175,-11.491,0.0397,74.557,Classical
+Claire de lune D-Flat Major: III.,Great piano moments,The Great Piano Master,7/1/2014,345000,0.994,0.423,0.0269,0.939,0.0949,-22.353,0.0691,67.382,Classical
+Trouble,The Alternative Classical Chillout Album,Royal Philharmonic Orchestra,2002,231826,0.298,0.356,0.319,0.91,0.0817,-12.628,0.0295,75.792,Classical
+Why Does It Always Rain On Me,The Alternative Classical Chillout Album,Royal Philharmonic Orchestra,2002,165386,0.627,0.399,0.232,0.813,0.0672,-14.445,0.0348,120.998,Classical
+"Adagio for Strings, Op. 11a",The 50 Most Essential Relaxing Classics,Various Artists,11/30/2010,502613,0.932,0.152,0.171,0.868,0.107,-16.298,0.0412,77.736,Classical
+"Concerto after Alessandro Marcello D Minor, BWV 974: II. Adagio",Great piano moments,The Great Piano Master,7/1/2014,280054,0.994,0.44,0.0651,0.952,0.119,-19.038,0.053,57.151,Classical
+Sleepsong,Earthsongs,Rolf LÃƒÂ¸vland,1/1/2005,290500,0.897,0.264,0.228,0.0499,0.128,-13.141,0.0384,125.884,Classical
+This Is Neverland - Finding Neverland/Soundtrack Version,Finding Neverland,Jan A.P. Kaczmarek,1/1/2004,241933,0.935,0.198,0.147,0.711,0.35,-17.109,0.0366,87.609,Classical
+Silver Lining - Ambient Chill Version,Chill Out Music - Ultimate Sunset Beach Playlist,Various Artists,1/1/2012,209866,0.933,0.689,0.141,0.909,0.108,-18.961,0.0319,110.085,Classical
+Tumbling Dice,Exile On Main Street (2010 Re-Mastered),The Rolling Stones,5/12/1972,226333,0.5,0.615,0.91,0.511,0.281,-4.248,0.0347,111.013,Rock
+Wish You Were Here,Wish You Were Here,Pink Floyd,9/12/1975,334743,0.735,0.481,0.262,0.0114,0.832,-15.73,0.0414,122.861,Rock
+Smells Like Teen Spirit,Nevermind (Remastered),Nirvana,9/26/1991,301920,2.55E-05,0.502,0.912,0.000173,0.106,-4.556,0.0564,116.761,Rock
+Paradise City,Appetite For Destruction,Guns N' Roses,7/21/1987,405640,0.0169,0.273,0.952,0.0111,0.142,-8.762,0.0843,100.271,Rock
+Another One Bites The Dust - Remastered 2011,The Game (Deluxe Remastered Version),Queen,6/27/1980,214653,0.112,0.933,0.528,0.329,0.163,-6.472,0.162,109.975,Rock
+Highway to Hell,Highway to Hell,AC/DC,7/27/1979,208400,0.061,0.574,0.913,0.00158,0.156,-4.793,0.133,115.728,Rock
+I Love Rock 'N Roll,I Love Rock 'N' Roll (Expanded Edition),Joan Jett & The Blackhearts,11/18/1981,175173,0.326,0.535,0.716,0,0.659,-5.025,0.0431,94.379,Rock
+Whole Lotta Love - 1990 Remaster,Led Zeppelin II (1994 Remaster),Led Zeppelin,10/22/1969,333893,0.0484,0.412,0.902,0.131,0.405,-11.6,0.405,89.74,Rock
+Creep,Pablo Honey,Radiohead,2/22/1993,238640,0.0097,0.515,0.43,0.000133,0.129,-9.935,0.0372,91.844,Rock
+Something In The Way,Nevermind (Remastered),Nirvana,9/26/1991,232146,0.745,0.427,0.201,0.263,0.109,-13.044,0.0317,105.218,Rock
+Dream On,Aerosmith,Aerosmith,1/5/1973,266960,0.388,0.307,0.433,9.08E-05,0.332,-10.057,0.029,160.9,Rock
+Livin' On A Prayer,Slippery When Wet,Bon Jovi,1/1/1986,249293,0.0768,0.534,0.887,9.93E-05,0.325,-3.777,0.0345,122.494,Rock
+Don't Stop Believin',Escape,Journey,1981,250986,0.127,0.5,0.748,0,0.447,-9.072,0.0363,118.852,Rock
+Seven Nation Army,Elephant,The White Stripes,4/1/2003,232106,0.0039,0.743,0.446,0.118,0.337,-7.807,0.0683,123.596,Rock
+Hotel California - 2013 Remaster,Hotel California (2013 Remaster),Eagles,12/8/1976,391376,0.00574,0.579,0.508,0.000494,0.0575,-9.484,0.027,147.125,Rock
+La Grange - 2005 Remaster,Tres Hombres (Expanded 2006 Remaster),ZZ Top,7/26/1973,230480,0.00249,0.545,0.64,0.0304,0.196,-9.937,0.224,80.544,Rock
+Heroes - 2017 Remaster,"""Heroes"" (2017 Remaster)",David Bowie,1977,371413,0.000671,0.49,0.758,0.484,0.092,-6.491,0.0297,112.114,Rock
+Tom Sawyer,Moving Pictures (2011 Remaster),Rush,2/12/1981,276880,0.00145,0.536,0.901,0.0186,0.06,-7.211,0.0374,87.559,Rock
+Baba O'Riley,Who's Next (Deluxe Edition),The Who,8/14/1971,300400,0.313,0.489,0.724,0.185,0.287,-8.367,0.0352,117.292,Rock
+Hold the Line,Toto,TOTO,10/10/1978,235546,0.00783,0.473,0.898,0.0618,0.173,-4.797,0.0561,96.556,Rock
+Paranoid,Greatest Hits,Black Sabbath,3/28/2014,168440,8.44E-05,0.426,0.619,0.00239,0.17,-11.501,0.0722,162.721,Rock
+Police & Thieves - Remastered,The Clash (Remastered),The Clash,1977,363373,0.0289,0.721,0.488,0.038,0.18,-10.294,0.067,152.287,Rock
+Under the Bridge,Blood Sugar Sex Magik (Deluxe Edition),Red Hot Chili Peppers,9/24/1991,264306,0.0576,0.559,0.345,0.000105,0.141,-13.496,0.0459,84.581,Rock
+Back In Black,Back In Black,AC/DC,7/25/1980,255493,0.011,0.31,0.7,0.00965,0.0828,-5.678,0.047,188.386,Rock
+Everlong,The Colour And The Shape,Foo Fighters,5/20/1997,250546,5.99E-05,0.413,0.881,0.000308,0.0805,-5.541,0.0367,158.066,Rock
+(I Can't Get No) Satisfaction - Mono Version,Out Of Our Heads,The Rolling Stones,7/30/1965,222813,0.0383,0.723,0.863,0.0317,0.128,-7.89,0.0338,136.302,Rock
+Paradise By the Dashboard Light,Bat Out Of Hell,Meat Loaf,10/21/1977,508333,0.214,0.326,0.872,0,0.461,-7.602,0.122,173.381,Rock
+Dreams - 2004 Remaster,Rumours (Super Deluxe),Fleetwood Mac,2/4/1977,257800,0.0644,0.828,0.492,0.00428,0.128,-9.744,0.0276,120.151,Rock
+We Will Rock You - Remastered 2011,News Of The World (Deluxe Remastered Version),Queen,10/28/1977,122066,0.679,0.693,0.497,0,0.258,-7.316,0.119,81.308,Rock
+Enter Sandman,Metallica,Metallica,8/12/1991,331573,0.00206,0.579,0.824,0.00903,0.059,-8.71,0.03,123.331,Rock
+Sweet Home Alabama,Second Helping,Lynyrd Skynyrd,4/15/1974,281147,0.181,0.597,0.605,0.000331,0.118,-12.013,0.0255,97.782,Rock
+Have You Ever Seen The Rain,Pendulum (40th Anniversary Edition),Creedence Clearwater Revival,12/7/1970,160133,0.0664,0.741,0.697,2.28E-05,0.133,-7.028,0.0277,116.109,Rock
+Born To Be Wild,Steppenwolf,Steppenwolf,1968,210373,0.262,0.438,0.71,0.537,0.221,-12.412,0.0919,145.928,Rock
+Moonage Daydream - 2012 Remaster,The Rise and Fall of Ziggy Stardust and the Spiders from Mars (2012 Remaster),David Bowie,6/6/1972,279693,0.0408,0.56,0.605,0.000162,0.0585,-11.209,0.0348,144.478,Rock
+Every Breath You Take - Remastered 2003,Synchronicity,The Police,6/1/1983,253886,0.56,0.813,0.46,0.0105,0.0724,-9.78,0.0346,117.387,Rock
+I Wanna Rock,Stay Hungry,Twisted Sister,5/10/1984,179760,0.00512,0.504,0.911,0.0123,0.355,-2.97,0.0738,106.244,Rock
+You Really Got Me,Kinks (Super Deluxe Edition),The Kinks,10/2/1964,133933,0.0995,0.567,0.959,6.07E-05,0.1,-3.822,0.102,137.377,Rock
+Limelight,Moving Pictures (2011 Remaster),Rush,2/12/1981,259839,0.00197,0.581,0.854,0.0013,0.111,-8.485,0.0428,131.18,Rock
+Black Dog - Remaster,Led Zeppelin IV (Deluxe Edition),Led Zeppelin,11/8/1971,295386,0.396,0.437,0.864,0.0314,0.242,-7.842,0.0904,81.394,Rock
+London Calling - Remastered,London Calling (Remastered),The Clash,1979,200480,0.123,0.651,0.801,0,0.0825,-7.34,0.0514,133.769,Rock
+Come Together - Remastered 2009,Abbey Road (Remastered),The Beatles,9/26/1969,259946,0.0302,0.533,0.376,0.248,0.0926,-11.913,0.0393,165.007,Rock
+House Of The Rising Sun,The Best Of The Animals,The Animals,1966-02,269720,0.000825,0.315,0.534,0.108,0.101,-7.552,0.031,116.891,Rock
+Sweet Child O' Mine,Appetite For Destruction,Guns N' Roses,7/21/1987,356066,0.0901,0.446,0.952,0.0857,0.112,-5.321,0.0523,125.303,Rock
+Sultans of Swing,Dire Straits,Dire Straits,10/7/1978,350400,0.0632,0.73,0.868,0.0661,0.318,-7.325,0.0288,148.217,Rock
+Wonderwall - Remastered,(What's The Story) Morning Glory? (Deluxe Edition) [Remastered],Oasis,10/2/1995,258732,0.000453,0.372,0.865,0,0.234,-4.918,0.0381,174.53,Rock
+One Way Or Another - Remastered,One Way Or Another,Blondie,1979,212706,0.0118,0.45,0.877,4.95E-05,0.0699,-6.403,0.0532,162.477,Rock
+Song 2 - 2012 Remaster,Blur (Special Edition),Blur,2/10/1997,121160,0.00178,0.674,0.789,0.00708,0.0753,-6.903,0.0676,129.802,Rock
+Heart-Shaped Box,In Utero - 20th Anniversary - Deluxe Edition,Nirvana,9/21/1993,281160,0.199,0.256,0.641,0.0329,0.0853,-10.283,0.0552,203.006,Rock
+American Girl,Tom Petty & The Heartbreakers,Tom Petty and the Heartbreakers,11/9/1976,214733,0.448,0.55,0.824,0.000127,0.366,-5.988,0.0334,114.512,Rock
+Edge of Seventeen - 2016 Remaster,Bella Donna (Deluxe Edition),Stevie Nicks,11/4/2016,329413,0.327,0.591,0.804,5.98E-06,0.0818,-7.299,0.0454,111.457,Rock
+White Riot - Remastered,The Clash (Remastered),The Clash,1977,116440,0.000598,0.168,0.974,0.783,0.295,-4.862,0.0655,205.278,Rock
+Basket Case,Dookie,Green Day,2/1/1994,181533,0.00293,0.442,0.943,8.71E-06,0.091,-3.205,0.0602,85.064,Rock
+Jump - 2015 Remaster,The Collection,Van Halen,3/27/2015,241599,0.171,0.572,0.835,0.000377,0.0702,-6.219,0.0317,129.981,Rock
+Stairway to Heaven - Remaster,Led Zeppelin IV (Remaster),Led Zeppelin,11/8/1971,482830,0.58,0.338,0.34,0.0032,0.116,-12.049,0.0339,82.433,Rock
+Sheena Is a Punk Rocker - 2017 Remaster,Rocket to Russia (40th Anniversary Deluxe Edition),Ramones,11/4/1977,169920,0.0981,0.42,0.965,0.000335,0.0784,-1.986,0.0403,176.243,Rock
+Starman - 2012 Remaster,The Rise and Fall of Ziggy Stardust and the Spiders from Mars (2012 Remaster),David Bowie,6/6/1972,254293,0.166,0.486,0.449,2.23E-06,0.54,-10.298,0.0267,100.456,Rock
+Bohemian Rhapsody - Remastered 2011,A Night At The Opera (2011 Remaster),Queen,11/21/1975,354320,0.271,0.414,0.404,0,0.3,-9.928,0.0499,71.105,Rock
+The Boys Are Back In Town,Jailbreak (Deluxe Edition),Thin Lizzy,1976,266720,0.234,0.445,0.706,0.000252,0.205,-9.803,0.0461,80.823,Rock
+We Got The Beat - 2011 Remaster,Beauty And The Beat (30th Anniversary Deluxe Edition),The Go-Go's,7/8/1981,151106,0.195,0.595,0.996,0.0345,0.0351,-3.418,0.0599,152.049,Rock
+With Or Without You - Remastered,The Joshua Tree (Super Deluxe),U2,3/3/1987,295515,0.000202,0.54,0.429,0.355,0.141,-11.822,0.0285,110.171,Rock
+Crazy On You,Dreamboat Annie,Heart,1975,293440,0.116,0.427,0.459,0.000103,0.132,-12.442,0.0332,129.878,Rock
+Mountain Song,Nothing's Shocking,Jane's Addiction,8/23/1988,242720,0.0155,0.324,0.931,0.0252,0.277,-6.803,0.0837,82.748,Rock
+Rock and Roll - Remaster,Mothership (Remastered),Led Zeppelin,2007,220880,0.00091,0.317,0.879,0.00142,0.0972,-7.533,0.0406,169.534,Rock
+Kickstart My Heart,Dr. Feelgood,MÃƒÂ¶tley CrÃƒÂ¼e,1989,282653,0.00125,0.359,0.981,0.00236,0.284,-3.622,0.303,178.98,Rock
+Zombie,No Need To Argue,The Cranberries,10/3/1994,306426,0.0154,0.307,0.635,0.00483,0.366,-8.957,0.0339,166.973,Rock
+More Than a Feeling,Boston,Boston,1976,285133,0.000894,0.377,0.682,0.00217,0.0504,-8.039,0.0299,108.736,Rock
+Saturday NightÃ¢â‚¬â„¢s Alright (For Fighting) - Remastered 2014,Goodbye Yellow Brick Road (Remastered),Elton John,10/5/1973,295466,0.0195,0.513,0.979,0.0951,0.0906,-6.362,0.0425,152.875,Rock
+In The Air Tonight - 2015 Remastered,Face Value (Deluxe Editon),Phil Collins,1/1/1981,336453,0.551,0.446,0.239,4.10E-06,0.0697,-13.945,0.0316,189.507,Rock
+All Along the Watchtower,Electric Ladyland,Jimi Hendrix,10/25/1968,240800,0.00255,0.438,0.805,5.69E-05,0.0842,-6.237,0.0624,113.253,Rock
+Thunderstruck,The Razors Edge,AC/DC,9/24/1990,292880,0.000147,0.502,0.89,0.0117,0.217,-5.175,0.0364,133.52,Rock
+Back on the Chain Gang - 2007 Remaster,Learning to Crawl (Expanded & Remastered),Pretenders,1984,231120,0.116,0.598,0.901,0.0401,0.178,-6.081,0.0359,153.24,Rock
+Rebel Rebel - 1999 Remaster,Diamond Dogs (30th Anniversary),David Bowie,4/24/1974,269360,0.00101,0.676,0.92,8.65E-06,0.248,-7.96,0.0435,126.341,Rock
+Break on Through (To the Other Side),The Doors,The Doors,1/4/1967,145866,0.2,0.421,0.751,0,0.17,-9.584,0.0472,89.839,Rock
+Born in the U.S.A.,Born In The U.S.A.,Bruce Springsteen,6/4/1984,278680,0.000373,0.398,0.952,7.75E-05,0.1,-6.042,0.061,122.093,Rock
+Bitter Sweet Symphony,Urban Hymns (Remastered 2016),The Verve,9/29/1997,357266,0.0335,0.356,0.917,0,0.406,-6.006,0.0479,171.176,Rock
+Won't Get Fooled Again - Original Album Version,Who's Next (Deluxe Edition),The Who,8/14/1971,511400,0.301,0.686,0.92,0.27,0.0807,-6.231,0.0566,135.027,Rock
+White Wedding - Pt. 1,Billy Idol,Billy Idol,1/1/1982,252200,0.0133,0.673,0.814,0.00293,0.343,-5.411,0.0367,147.193,Rock
+The Spirit Of Radio,Permanent Waves,Rush,1/1/1980,296466,0.0144,0.365,0.924,0.000254,0.423,-7.066,0.0488,135.811,Rock
+Carry on Wayward Son,Leftoverture (Expanded Edition),Kansas,1976,323000,0.00321,0.482,0.786,8.88E-05,0.446,-5.735,0.032,126.755,Rock
+Mr. Brightside,Hot Fuss,The Killers,6/15/2004,222586,0.00101,0.356,0.924,0,0.0953,-3.74,0.0808,148.017,Rock
+Where Is My Mind? - Remastered,Surfer Rosa,Pixies,3/21/1988,234973,0.0204,0.519,0.441,0.000453,0.076,-14.178,0.0353,81.334,Rock
+Sweet Child O' Mine,Appetite For Destruction,Guns N' Roses,7/21/1987,354520,0.0866,0.454,0.91,0.0996,0.116,-7.766,0.0448,125.116,Rock
+Rock And Roll All Nite,Dressed To Kill (Remastered Version),KISS,3/19/1975,168733,0.046,0.656,0.931,0,0.0543,-5.827,0.0976,144.747,Rock
+Last Nite,Is This It,The Strokes,7/30/2001,193373,0.0221,0.624,0.899,0.000137,0.0975,-5.709,0.0296,104.061,Rock
+Hit Me With Your Best Shot,Crimes Of Passion,Pat Benatar,8/5/1980,171266,0.117,0.741,0.58,3.31E-05,0.212,-9.05,0.0304,127.402,Rock
+Under Pressure - Remastered 2011,Greatest Hits II,Queen,10/28/1991,236520,0.524,0.663,0.712,0,0.0804,-7.268,0.0479,113.439,Rock
+Alive,Ten,Pearl Jam,8/27/1991,340907,0.00752,0.284,0.875,0.000461,0.402,-6.069,0.0422,75.009,Rock
+Rock You Like a Hurricane - 2015 - Remaster,Love At First Sting (Deluxe Edition),Scorpions,3/27/1984,253666,0.00484,0.402,0.873,7.30E-05,0.157,-3.209,0.0586,125.443,Rock
+You Give Love A Bad Name,Slippery When Wet,Bon Jovi,8/16/1986,222706,0.0663,0.541,0.96,2.25E-06,0.344,-2.947,0.0505,122.803,Rock
+School's Out,School's Out,Alice Cooper,1972,210106,0.05,0.294,0.745,0.125,0.676,-9.138,0.0461,134.364,Rock
+Bullet With Butterfly Wings - Remastered 2012,Mellon Collie And The Infinite Sadness (Deluxe Edition),The Smashing Pumpkins,1995,258466,5.59E-05,0.404,0.72,0.836,0.0466,-9.18,0.0623,121.864,Rock
+"Paint It, Black - Mono",The Rolling Stones In Mono (Remastered 2016),The Rolling Stones,1/1/1966,204480,0.0103,0.505,0.836,0.0771,0.295,-7.384,0.101,159.669,Rock
+The Chain,Rumours,Fleetwood Mac,2/4/1977,271000,0.0629,0.546,0.529,0.000567,0.0383,-13.6,0.0436,151.727,Rock
+Good Times Roll - 2016 Remaster,The Elektra Years 1978 - 1987,The Cars,3/11/2016,225226,0.0731,0.631,0.689,0.000357,0.102,-8.358,0.0284,107.667,Rock
+Satellite of Love,Transformer,Lou Reed,12/1/1972,221120,0.442,0.458,0.502,5.51E-06,0.299,-10.186,0.0294,121.861,Rock
+Stuck In The Middle With You,Stealers Wheel,Stealers Wheel,1/1/1972,208946,0.0936,0.82,0.575,0.000135,0.109,-9.144,0.0408,123.765,Rock
+The Middle,Bleed American (Deluxe Edition),Jimmy Eat World,2001,168253,0.0424,0.629,0.897,0,0.263,-3.401,0.0483,161.944,Rock
+Fortunate Son,The Long Road Home - The Ultimate John Fogerty / Creedence Collection,John Fogerty,12/14/2005,138053,0.0648,0.636,0.746,0.29,0.173,-3.785,0.0393,132.31,Rock
+Times Like These - Acoustic Version,20225,Foo Fighters,10/18/2019,238586,0.128,0.588,0.559,0,0.0977,-4.849,0.0272,123.845,Rock
+Layla - 40th Anniversary Version / 2010 Remastered,Layla And Other Assorted Love Songs (40th Anniversary / 2010 Remastered),Derek & The Dominos,11/1/1970,423840,0.577,0.404,0.903,0.297,0.287,-3.88,0.0668,115.672,Rock

@@ -1,0 +1,101 @@
+name,album,artist,genre,release_date,length,danceability,acousticness,energy,instrumentalness,liveness,loudness,speechiness,tempo
+Mistadobalina,The Best Of Del Tha Funkee Homosapien [The Elektra Years]: The B-Boy Handbook,Del The Funky Homosapien,Hip-Hop,2/10/2004,260306,0.0964,0.85,0.797,8.38E-06,0.34,-7.429,0.136,99.615
+Find a Way,The Love Movement,A Tribe Called Quest,Hip-Hop,9/29/1998,203066,0.0352,0.773,0.581,0,0.485,-8.466,0.432,94.093
+I Don't Fuck With You,Dark Sky Paradise,Big Sean,Hip-Hop,2/24/2015,284386,0.0362,0.824,0.733,0,0.325,-5.474,0.0613,97.972
+Tear Da Roof Off,Extinction Level Event: The Final World Front,Busta Rhymes,Hip-Hop,1998,216560,0.0168,0.562,0.83,0,0.162,-7.296,0.45,178.686
+Arab Money - Dirty,Back On My B.S.,Busta Rhymes,Hip-Hop,2009,165213,0.24,0.739,0.75,0,0.155,-5.056,0.339,93.331
+Break Ya Neck,Genesis,Busta Rhymes,Hip-Hop,11/7/2001,231240,0.443,0.82,0.809,0.00175,0.0613,-6.759,0.251,83.011
+How We Do,The Documentary,The Game,Hip-Hop,2005,235533,0.0455,0.862,0.648,0,0.0332,-7.401,0.251,98.012
+Still D.R.E.,2001,Dr. Dre,Hip-Hop,11/16/1999,270586,0.16,0.816,0.775,0.00031,0.0543,-3.323,0.234,93.431
+"C.R.E.A.M. (Cash Rules Everything Around Me) (feat. Method Man, Raekwon, Inspectah Deck & Buddha Monk)",Enter The Wu-Tang (36 Chambers) [Expanded Edition],Wu-Tang Clan,Hip-Hop,11/9/1993,252186,0.57,0.479,0.549,0.0235,0.127,-10.551,0.373,180.985
+Party Up,...And Then There Was X,DMX,Hip-Hop,12/21/1999,268866,0.0738,0.51,0.931,0,0.5,-3.302,0.347,201.936
+Put Your Hands Where My Eyes Could See,When Disaster Strikes...,Busta Rhymes,Hip-Hop,1997,194293,0.00864,0.906,0.623,4.19E-06,0.0753,-6.711,0.303,99.498
+Ms. Fat Booty,Black On Both Sides,Mos Def,Hip-Hop,10/12/1999,223546,0.148,0.782,0.589,0,0.164,-4.827,0.189,90.438
+"Shook Ones, Pt. II",The Infamous,Mobb Deep,Hip-Hop,4/25/1995,325506,0.0146,0.763,0.786,0.0114,0.0817,-6.472,0.229,93.857
+Runnin',Labcabincalifornia (Deluxe Edition),The Pharcyde,Hip-Hop,1/1/1995,296266,0.0287,0.754,0.785,0.00144,0.319,-8.178,0.18,94.123
+Shimmy Shimmy Ya,Return to the 36 Chambers: The Dirty Version,Ol' Dirty Bastard,Hip-Hop,1995,161400,0.097,0.814,0.481,3.83E-05,0.0495,-5.183,0.245,96.252
+Scenario - LP Mix,The Low End Theory,A Tribe Called Quest,Hip-Hop,9/24/1991,250133,0.112,0.795,0.6,0.000171,0.111,-14.004,0.341,101.78
+Da Rockwilder,Blackout!,Method Man,Hip-Hop,1/1/1999,136093,0.0137,0.612,0.659,0,0.417,-6.995,0.406,99.137
+X Gon' Give It To Ya,The Definition of X: Pick Of The Litter,DMX,Hip-Hop,6/12/2007,217586,0.0135,0.761,0.899,0,0.0719,-3.09,0.183,95.027
+The Next Episode,2001,Dr. Dre,Hip-Hop,11/16/1999,161506,0.0281,0.922,0.909,0,0.0856,-2.429,0.27,95.295
+Hypnotize - 2014 Remaster,Life After Death (2014 Remastered Edition),The Notorious B.I.G.,Hip-Hop,3/4/1997,229826,0.145,0.901,0.697,0,0.287,-3.439,0.28,93.941
+Got Your Money (feat. Kelis),Nigga Please,Ol' Dirty Bastard,Hip-Hop,1999,239546,0.0516,0.934,0.459,0,0.222,-7.654,0.189,103.04
+Can I Kick It?,People's Instinctive Travels and the Paths of Rhythm (25th Anniversary Edition),A Tribe Called Quest,Hip-Hop,4/17/1990,251573,0.173,0.848,0.666,0.000699,0.129,-6.547,0.274,96.662
+Insane in the Brain,Black Sunday,Cypress Hill,Hip-Hop,7/20/1993,208266,0.0291,0.897,0.611,0.186,0.0894,-10.489,0.211,102.304
+If I Ruled the World (Imagine That) (feat. Lauryn Hill),It Was Written,Nas,Hip-Hop,7/2/1996,282373,0.0474,0.879,0.564,9.43E-06,0.0519,-7.682,0.247,93.908
+It Was A Good Day,The Predator,Ice Cube,Hip-Hop,11/17/1992,260000,0.33,0.798,0.744,0.000106,0.292,-5.328,0.136,82.356
+"Gravel Pit (feat. RZA, Method Man, Ghostface Killah, Raekwon & U-God)",Gravel Pit,Wu-Tang Clan,Hip-Hop,2001,273266,0.18,0.792,0.744,0,0.331,-7.18,0.241,120.985
+Regulate,Regulateâ€¦ G Funk Era,Warren G,Hip-Hop,6/7/1994,248866,0.304,0.849,0.521,1.65E-06,0.115,-12.999,0.216,95.265
+Gin N Juice (feat. Dat Nigga Daz),Doggystyle,Snoop Dogg,Hip-Hop,1993,211493,0.0285,0.549,0.853,0.000296,0.618,-4.293,0.188,94.695
+Juicy - 2005 Remaster,Ready to Die (The Remaster),The Notorious B.I.G.,Hip-Hop,9/13/1994,302760,0.47,0.889,0.818,0,0.179,-4.639,0.253,96.063
+Survival of the Fittest,The Infamous,Mobb Deep,Hip-Hop,4/25/1995,224533,0.125,0.813,0.703,1.26E-06,0.237,-5.077,0.268,94.828
+Forgot About Dre,2001,Dr. Dre,Hip-Hop,11/16/1999,222293,0.0827,0.924,0.74,0,0.163,-1.299,0.0774,133.974
+Mo Money Mo Problems (feat. Puff Daddy & Mase) - 2014 Remaster,Life After Death (2014 Remastered Edition),The Notorious B.I.G.,Hip-Hop,3/4/1997,257399,0.0128,0.845,0.884,2.10E-06,0.203,-4.506,0.0759,104.536
+Ambitionz Az A Ridah,All Eyez On Me,2Pac,Hip-Hop,1996,278386,0.00253,0.801,0.908,0.000655,0.0698,-6.554,0.221,87.279
+Fu-Gee-La,The Score (Expanded Edition),Fugees,Hip-Hop,2/13/1996,260066,0.137,0.681,0.505,0,0.234,-11.709,0.138,89.953
+N.Y. State of Mind,Illmatic XX,Nas,Hip-Hop,4/15/2014,293973,0.0394,0.665,0.91,0,0.227,-4.682,0.223,84.099
+Sound of da Police,Return of the Boom Bap,KRS-One,Hip-Hop,9/3/1993,258506,0.124,0.794,0.95,7.71E-05,0.133,-8.78,0.294,94.984
+Passin' Me By,Bizarre Ride II The Pharcyde,The Pharcyde,Hip-Hop,11/24/1992,303493,0.0903,0.759,0.756,2.36E-06,0.265,-8.145,0.266,87.059
+"Flava in Ya Ear Remix (feat. Notorious B.I.G., L.L. Cool J, Busta Rhymes, Rampage)",Flava In Ya Ear Remix,Craig Mack,Hip-Hop,1994,302013,0.272,0.52,0.847,0,0.325,-5.3,0.427,177.371
+Who Am I (What's My Name)?,Doggystyle,Snoop Dogg,Hip-Hop,1993,246320,0.000136,0.692,0.833,1.98E-05,0.515,-3.974,0.0492,96.814
+"Protect Ya Neck (feat. RZA, Method Man, Inspectah Deck, Raekwon, U-God, Ol' Dirty Bastard, Ghostface Killah & GZA)",Enter The Wu-Tang (36 Chambers) [Expanded Edition],Wu-Tang Clan,Hip-Hop,11/9/1993,291066,0.0318,0.817,0.552,7.01E-06,0.826,-10.8,0.385,102.011
+Ready or Not,The Score (Expanded Edition),Fugees,Hip-Hop,2/13/1996,226986,0.209,0.607,0.422,0,0.0839,-13.364,0.499,130.47
+"Wu-Tang Clan Ain't Nuthing ta F' Wit (feat. RZA, Inspectah Deck & Method Man)",Enter The Wu-Tang (36 Chambers) [Expanded Edition],Wu-Tang Clan,Hip-Hop,11/9/1993,216133,0.199,0.826,0.566,0,0.356,-10.747,0.311,99.131
+All Eyez On Me (ft. Big Syke),All Eyez On Me,2Pac,Hip-Hop,1996,307773,0.03,0.873,0.719,0,0.333,-5.948,0.248,93.281
+Jump Around,House of Pain (Fine Malt Lyrics),House Of Pain,Hip-Hop,7/21/1994,214946,0.0113,0.854,0.71,8.72E-05,0.166,-6.32,0.0793,106.894
+Check Yo Self - Remix,Bootlegs And B-Sides,Ice Cube,Hip-Hop,11/22/1994,273106,0.031,0.934,0.735,8.60E-06,0.107,-6.668,0.251,101.368
+Put It On,Lifestylez Ov Da Poor & Dangerous,Big L,Hip-Hop,3/28/1995,217626,0.0175,0.711,0.62,0,0.134,-10.174,0.212,179.817
+The Message,It Was Written,Nas,Hip-Hop,7/2/1996,234093,0.00776,0.614,0.543,3.28E-05,0.383,-7.178,0.374,178.422
+MC's Act Like They Don't Know,KRS-One,KRS-One,Hip-Hop,10/10/1995,295933,0.0101,0.855,0.798,0.000615,0.628,-4.018,0.237,90.429
+Mathematics,Black On Both Sides,Mos Def,Hip-Hop,10/12/1999,246440,0.0285,0.753,0.749,0,0.0845,-6.132,0.316,93.79
+Mind Playing Tricks on Me,We Can't Be Stopped,Geto Boys,Hip-Hop,7/2/1991,308733,0.207,0.886,0.512,0,0.0991,-11.825,0.237,93.997
+Gangsta's Paradise,Gangsta's Paradise,Coolio,Hip-Hop,11/7/1995,240693,0.0655,0.647,0.514,0,0.398,-10.05,0.0593,79.974
+Real Muthaphuckkin' G's,Gangsta Memorial,Eazy-E,Hip-Hop,1/1/2007,332733,0.0164,0.724,0.853,0,0.65,-3.895,0.283,170.51
+Gimme Some More,Extinction Level Event: The Final World Front,Busta Rhymes,Hip-Hop,1998,158466,0.00832,0.591,0.855,5.87E-05,0.771,-8.339,0.339,136.734
+Don't Sweat The Technique,Don't Sweat The Technique,Eric B. & Rakim,Hip-Hop,1/1/1992,262800,0.00556,0.737,0.89,0.00171,0.0801,-8.443,0.158,105.848
+Simon Says,Internal Affairs,Pharoahe Monch,Hip-Hop,10/18/2019,173373,0.141,0.622,0.913,2.71E-05,0.12,-3.701,0.462,92.222
+I Get Around,Strictly 4 My N.I.G.G.A.Z...,2Pac,Hip-Hop,2/16/1993,259000,0.156,0.846,0.416,9.34E-06,0.238,-13.767,0.118,96.188
+"Shame On a Nigga (feat. Raekwon, Ol' Dirty Bastard & Method Man)",Enter The Wu-Tang (36 Chambers) [Expanded Edition],Wu-Tang Clan,Hip-Hop,11/9/1993,177066,0.0854,0.889,0.466,7.37E-06,0.384,-10.74,0.36,100.17
+Who Shot Ya? - 2005 Remaster,Ready to Die (The Remaster),The Notorious B.I.G.,Hip-Hop,9/13/1994,319360,0.256,0.831,0.682,0,0.494,-5.697,0.238,91.771
+Ain't No Half-Steppin',Long Live The Kane,Big Daddy Kane,Hip-Hop,1/1/1988,319906,0.00569,0.836,0.728,0.000819,0.0649,-12.058,0.234,100.842
+They Want EFX,Dead Serious,Das EFX,Hip-Hop,4/7/1992,221400,0.115,0.755,0.459,0,0.0851,-12.84,0.358,98.454
+Fuck Tha Police,Straight Outta Compton,N.W.A.,Hip-Hop,8/8/1988,345717,0.0193,0.859,0.75,0,0.0538,-8.325,0.303,98.691
+Boyz-N-The-Hood,N.W.A. And The Posse,N.W.A.,Hip-Hop,1/1/1987,339893,0.0417,0.785,0.479,3.50E-05,0.334,-10.247,0.362,87.691
+No Vaseline,Death Certificate (25th Anniversary Edition),Ice Cube,Hip-Hop,6/9/2017,313053,0.179,0.777,0.957,0,0.296,-3.201,0.319,105.756
+Keep Their Heads Ringin',Keep Their Heads Ringin',Dr. Dre,Hip-Hop,3/7/1995,310226,0.0338,0.671,0.737,0.00344,0.0596,-5.131,0.108,90.519
+Gangsta Nation,Terrorist Threats,Westside Connection,Hip-Hop,12/9/2003,293053,0.127,0.843,0.7,0,0.876,-3.249,0.26,95.05
+Woo Hah!! Got You All in Check,The Coming,Busta Rhymes,Hip-Hop,1996,271973,0.127,0.842,0.831,0,0.0881,-7.072,0.242,92.053
+Alwayz Into Somethin',Efil4zaggin,N.W.A.,Hip-Hop,5/28/1991,264960,0.0114,0.709,0.874,0,0.213,-4.522,0.193,88.546
+Only God Can Judge Me (ft. Rappin' 4-Tay),All Eyez On Me,2Pac,Hip-Hop,1996,296906,0.0012,0.803,0.784,0.000161,0.0794,-5.97,0.198,90.185
+Know The Ledge,Don't Sweat The Technique,Eric B. & Rakim,Hip-Hop,1/1/1992,238866,0.0289,0.794,0.88,2.52E-05,0.0683,-9.77,0.162,115.666
+Watch Out Now,A Musical Massacre (Explicit),The Beatnuts,Hip-Hop,8/10/1999,174800,0.0969,0.783,0.633,0.000994,0.154,-6.983,0.291,100.428
+What's The Difference,2001,Dr. Dre,Hip-Hop,11/16/1999,244200,0.223,0.772,0.821,0,0.148,-0.14,0.25,91.921
+Gangsta Gangsta,Straight Outta Compton,N.W.A.,Hip-Hop,8/8/1988,336917,0.0279,0.894,0.698,3.56E-06,0.329,-8.264,0.275,98.104
+Ruff Ryders' Anthem,It's Dark And Hell Is Hot,DMX,Hip-Hop,5/1/1998,214440,0.0564,0.88,0.577,1.02E-06,0.201,-8.093,0.302,90.991
+Microphone Fiend,Follow The Leader,Eric B. & Rakim,Hip-Hop,1988,314600,0.354,0.586,0.795,0,0.187,-8.71,0.258,94.101
+Dangerous,When Disaster Strikes...,Busta Rhymes,Hip-Hop,1997,217640,0.0096,0.913,0.6,0,0.117,-8.446,0.202,103.268
+"Nuthin' But A ""G"" Thang",The Chronic,Dr. Dre,Hip-Hop,12/15/1992,238466,0.00575,0.801,0.699,0,0.146,-8.18,0.279,94.605
+Summertime,Homebase,DJ Jazzy Jeff & The Fresh Prince,Hip-Hop,7/9/1991,270973,0.0455,0.677,0.539,1.84E-06,0.845,-14.439,0.063,95.116
+Me Myself And I,"Smooth Hip-Hop, Vol. 2",Various Artists,Hip-Hop,1/8/1997,224693,0.0711,0.898,0.92,5.92E-05,0.0908,-7.859,0.0636,114.343
+Shoop,Very Necessary,Salt-N-Pepa,Hip-Hop,10/12/1993,248573,0.0915,0.939,0.675,0,0.0565,-7.232,0.211,96.918
+Full Clip,Full Clip: A Decade Of Gang Starr,Gang Starr,Hip-Hop,7/13/1999,217440,0.0227,0.875,0.745,2.37E-06,0.287,-5.878,0.269,95.201
+Mama Said Knock You Out,Mama Said Knock You Out,LL Cool J,Hip-Hop,8/27/1990,289693,0.0314,0.791,0.759,0.674,0.255,-7.378,0.129,102.382
+Here Comes the Hotstepper,Reggae Classics,Various Artists,Hip-Hop,12/28/2007,247466,0.017,0.707,0.525,0.000162,0.0771,-7.356,0.302,200.753
+Hate It Or Love It,The Documentary,The Game,Hip-Hop,2005,206400,0.14,0.802,0.785,0,0.123,-4.781,0.207,99.998
+Westside Story,The Documentary,The Game,Hip-Hop,2005,223066,0.16,0.876,0.647,0,0.238,-3.917,0.28,86.993
+Bring The Pain,Tical,Method Man,Hip-Hop,11/15/1994,189760,0.38,0.835,0.456,0.00359,0.16,-10.195,0.266,101.889
+Big Poppa - 2005 Remaster,Ready to Die (The Remaster),The Notorious B.I.G.,Hip-Hop,9/13/1994,252746,0.43,0.78,0.575,0,0.143,-7.247,0.273,84.492
+Bladow!!,Anarchy,Busta Rhymes,Hip-Hop,6/9/2000,220373,0.0398,0.764,0.705,0.0005,0.0392,-7.39,0.279,88.357
+Live It Up,Anarchy,Busta Rhymes,Hip-Hop,6/9/2000,221960,0.00385,0.958,0.334,1.07E-06,0.113,-8.172,0.345,105.93
+Here We Go Again (feat. The Flipmode Squad),Anarchy,Busta Rhymes,Hip-Hop,6/9/2000,208600,0.0273,0.711,0.717,0,0.336,-8.4,0.343,100.106
+"C'mon All My Niggaz, C'mon All My Bitches",Anarchy,Busta Rhymes,Hip-Hop,6/9/2000,174866,0.0266,0.496,0.589,0,0.0574,-5.962,0.447,71.63
+Why We Die (feat. DMX & Jay-Z),Anarchy,Busta Rhymes,Hip-Hop,6/9/2000,239093,0.000985,0.543,0.7,0,0.107,-6.979,0.345,80.636
+Make Noise (feat. Lenny Kravitz),Anarchy,Busta Rhymes,Hip-Hop,6/9/2000,197960,0.159,0.698,0.818,0,0.631,-8.07,0.398,99.236
+Pass The Courvoisier Part II (feat. P. Diddy & Pharrell) - Remix,Genesis,Busta Rhymes,Hip-Hop,11/7/2001,238600,0.0844,0.697,0.793,0,0.0619,-4.699,0.323,89.767
+We Got What You Want,Genesis,Busta Rhymes,Hip-Hop,11/7/2001,231506,0.00331,0.617,0.462,0,0.12,-5.311,0.49,80.845
+Bounce,Genesis,Busta Rhymes,Hip-Hop,11/7/2001,199493,0.0906,0.594,0.831,0,0.113,-2.966,0.41,78.35
+Holla,Genesis,Busta Rhymes,Hip-Hop,11/7/2001,274706,0.138,0.782,0.789,0.00401,0.104,-4.077,0.478,94.811
+Wife In Law (feat. Jaheim) - Alternate Version,Genesis,Busta Rhymes,Hip-Hop,11/7/2001,243360,0.0657,0.88,0.502,0,0.612,-8.196,0.683,91.103
+Ass On Your Shoulders (feat. Kokane),Genesis,Busta Rhymes,Hip-Hop,11/7/2001,282973,0.071,0.81,0.692,0,0.672,-5.136,0.393,51.451
+Make It Hurt,Genesis,Busta Rhymes,Hip-Hop,11/7/2001,203360,0.0536,0.55,0.88,1.27E-06,0.641,-4.845,0.339,124.274
+What It Is (feat. Kelis),Genesis,Busta Rhymes,Hip-Hop,11/7/2001,218906,0.22,0.937,0.611,3.78E-06,0.0589,-4.631,0.204,100.957

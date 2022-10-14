@@ -1,0 +1,101 @@
+name,album,artist,artist_genre,release_date,length,danceability,acousticness,energy,instrumentalness,liveness,loudness,speechiness,tempo
+Blue Moon,Solitude,Billie Holiday,Jazz,1/1/1956,207826,0.982,0.639,0.269,0.12,0.141,-11.435,0.0698,124.866
+Say It (Over And Over Again),Ballads (Deluxe Edition - Rudy Van Gelder Remaster),John Coltrane Quartet,Jazz,1963,255960,0.963,0.488,0.124,0.333,0.246,-13.038,0.0404,66.105
+Everything Happens to Me,Chet Baker Sings: It Could Happen To You [Original Jazz Classics Remasters] (OJC Remaster),Chet Baker,Jazz,1/1/2010,305186,0.809,0.511,0.193,2.17E-05,0.129,-15.148,0.0439,116.348
+'Long As You Know You're Living Yours,Belonging,Keith Jarrett,Jazz,10/1/1974,370866,0.253,0.605,0.376,0.207,0.117,-14.978,0.0322,131.927
+This Is Always,Inside Betty Carter,Betty Carter,Jazz,8/2/1993,191960,0.971,0.417,0.0644,0.000134,0.126,-19.687,0.0359,113.713
+All The Things You Are,Ella Fitzgerald Sings The Jerome Kern Songbook,Ella Fitzgerald,Jazz,1/1/1963,195666,0.938,0.45,0.154,4.37E-06,0.16,-14.485,0.0373,110.666
+My One And Only Love,The Gentle Side Of John Coltrane,John Coltrane,Jazz,1/1/1975,296666,0.988,0.461,0.0546,0.208,0.126,-18.982,0.0362,128.91
+Stormy Weather,At Last!,Etta James,Jazz,1960,187666,0.613,0.262,0.356,0,0.175,-8.031,0.0303,174.176
+My Foolish Heart,Waltz For Debby [Original Jazz Classics Remasters] (OJC Remaster),Bill Evans Trio,Jazz,1961,297320,0.935,0.395,0.121,0.397,0.697,-23.427,0.0327,114.521
+Softly As In A Morning Sunrise,Elegance: The Birth Of The Modern Jazz Quartet,The Modern Jazz Quartet,Jazz,1954,209400,0.709,0.634,0.327,0.0131,0.158,-9.703,0.0551,80.825
+But Not For Me - Vocal Version,Chet Baker Sings,Chet Baker,Jazz,1956,184466,0.934,0.626,0.152,6.05E-05,0.12,-14.182,0.0405,82.174
+Night And Day,Ella Fitzgerald Sings The Cole Porter Songbook (Expanded Edition),Ella Fitzgerald,Jazz,1/15/1997,184093,0.796,0.45,0.285,0,0.0666,-10.087,0.0414,117.494
+Hipsippy Blues,Just Coolin',Art Blakey & The Jazz Messengers,Jazz,7/17/2020,400446,0.713,0.573,0.247,5.64E-05,0.103,-19.282,0.0627,138.234
+Misty,Sarah Vaughan's Golden Hits,Sarah Vaughan,Jazz,7/7/1958,179373,0.976,0.224,0.214,0.00094,0.367,-14.455,0.0348,83.906
+Porgy (I Loves You Porgy) - Outtake,Waltz For Debby [Original Jazz Classics Remasters] (OJC Remaster),Bill Evans Trio,Jazz,1961,360306,0.92,0.389,0.145,0.876,0.656,-22.965,0.0301,99.541
+Line For Lyons,Gerry Mulligan - Paul Desmond Quartet (Expanded Edition),Gerry Mulligan,Jazz,12/1/1957,188960,0.805,0.543,0.133,0.00135,0.125,-16.846,0.1,171.493
+Teach Me Tonight,"The Complete Dinah Washington On Mercury, Vol.4 (1954-1956)",Dinah Washington,Jazz,1/1/1988,167493,0.805,0.558,0.231,0,0.142,-11.436,0.0812,73.103
+I Can't Give You Anything But Love,Standards,Sonny Clark,Jazz,2/10/1998,232306,0.655,0.749,0.152,0.000254,0.086,-16.745,0.0493,101.779
+St. Thomas,Saxophone Colossus,Sonny Rollins,Jazz,1957-04,406266,0.727,0.541,0.607,0.442,0.0997,-8.435,0.0438,104.96
+It's A Lovely Day Today,Ella Fitzgerald Sings The Irving Berlin Song Book,Ella Fitzgerald,Jazz,1/1/1958,148266,0.84,0.573,0.275,0,0.196,-10.684,0.0534,140.9
+April In Paris,All Or Nothing At All,Billie Holiday,Jazz,1/1/1958,185586,0.927,0.496,0.127,7.07E-05,0.132,-14.211,0.0382,74.746
+These Foolish Things (Remastered),The Collection,Lester Young,Jazz,9/1/2014,190933,0.986,0.593,0.103,0.6,0.12,-14.961,0.081,66.283
+The Way You Look Tonight - 2003 Remastered,The Complete RCA Victor Recordings,Paul Desmond,Jazz,1963,439506,0.815,0.703,0.187,0.000492,0.225,-16.273,0.0676,126.164
+I'll Remember April - Instrumental,Chet In Paris,Chet Baker,Jazz,1/1/2000,352293,0.768,0.435,0.499,0.107,0.131,-8.576,0.0317,121.924
+Autumn In New York,Ella And Louis Again,Ella Fitzgerald,Jazz,2/25/1957,356626,0.955,0.425,0.0469,0,0.137,-18.612,0.0354,135.335
+Someone To Watch Over Me,Lee Konitz Meets Jimmy Giuffre,Lee Konitz,Jazz,1/1/1959,216360,0.987,0.419,0.0284,0.586,0.105,-24.09,0.0357,71.502
+Louise,Hamp & Getz,Lionel Hampton,Jazz,1/1/1955,407800,0.947,0.781,0.106,0.0835,0.12,-17.396,0.0584,113.528
+Moon River,Jazz Impressions Of Black Orpheus [Original Jazz Classics Remasters] (OJC Remaster),Vince Guaraldi Trio,Jazz,1/1/2010,321026,0.987,0.319,0.157,0.849,0.138,-19.728,0.0368,191.259
+Bye Bye Blackbird,Don't Go To Strangers (Rudy Van Gelder Remaster),Etta Jones,Jazz,1/1/1960,194240,0.867,0.71,0.318,0.00038,0.169,-8.948,0.0432,126.05
+Give Me The Simple Life,Alexandria The Great,Lorez Alexandria,Jazz,1/1/1964,140520,0.879,0.716,0.133,0,0.0966,-15.846,0.0421,62.14
+Dedicated To You,John Coltrane & Johnny Hartman,John Coltrane,Jazz,1963,330426,0.977,0.413,0.0552,0.00091,0.185,-18.538,0.0346,107.842
+It Never Entered My Mind,Coleman Hawkins Encounters Ben Webster (Expanded Edition),Coleman Hawkins,Jazz,11/1/1959,346920,0.958,0.564,0.097,0.0588,0.119,-16.442,0.038,132.653
+How Long Has This Been Going On?,Ella Sings Gershwin,Ella Fitzgerald,Jazz,9/11/1950,197666,0.974,0.303,0.175,1.32E-06,0.105,-14.203,0.0378,168.743
+O Pato,Jazz Samba,Stan Getz,Jazz,1/1/1962,149080,0.86,0.608,0.387,0.662,0.187,-20.157,0.0411,91.489
+You Go To My Head - 2020 Mix,Nice 'n' Easy (2020 Mix),Frank Sinatra,Jazz,7/25/1960,266800,0.965,0.147,0.215,0.000928,0.184,-14.594,0.0346,171.46
+"KÃ¶ln, January 24, 1975, Pt. II C - Live",The KÃ¶ln Concert,Keith Jarrett,Jazz,11/30/1975,416840,0.973,0.27,0.688,0.884,0.669,-16.305,0.0547,75.845
+Windows,The Best Of Chick Corea,Chick Corea,Jazz,1/1/1993,191933,0.673,0.503,0.344,0.381,0.096,-19.024,0.0369,108.489
+Stormy Weather,Plays the Harold Arlen Song Book,Oscar Peterson,Jazz,1/1/2001,213386,0.99,0.652,0.171,0.864,0.158,-16.1,0.0569,118.883
+Almost Like Being In Love,Red Garland's Piano,Red Garland,Jazz,1957,290293,0.873,0.561,0.346,0.399,0.104,-12.596,0.0409,93.689
+I'm A Fool To Want You,Ballads,Dexter Gordon,Jazz,1/1/1991,405226,0.978,0.497,0.153,0.809,0.138,-12.65,0.0407,100.222
+Stolen Moments,The Awakening,Ahmad Jamal Trio,Jazz,1970,392026,0.89,0.476,0.273,0.9,0.0978,-17.457,0.0334,117.779
+Love For Sale,Jazz Queens of the 50's,Various Artists,Jazz,10/8/2013,164840,0.716,0.499,0.434,0,0.165,-11.48,0.0735,119.134
+Solitude,Solitude,Billie Holiday,Jazz,1/1/1956,207600,0.984,0.462,0.15,0.000902,0.105,-13.531,0.0522,98.66
+I Fall In Love Too Easily,Moon Beams [Original Jazz Classics Remasters],Bill Evans Trio,Jazz,1962,162680,0.955,0.476,0.0794,0.872,0.112,-19.166,0.0365,103.181
+Alone Together,Things Are Swingin',Peggy Lee,Jazz,5/4/1959,127800,0.75,0.589,0.386,0,0.15,-8.013,0.0441,142.371
+Blue Monk - Rudy Van Gelder Remaster,Thelonious Monk,Thelonious Monk,Jazz,1954,456360,0.66,0.444,0.339,0.103,0.163,-16.936,0.0418,142.112
+Foolin' Myself,Motion,Lee Konitz,Jazz,1/1/1961,417320,0.537,0.493,0.295,0.241,0.241,-15.536,0.0489,99.579
+Cheek To Cheek,Ella and Louis,Ella Fitzgerald,Jazz,3/7/2000,353266,0.573,0.655,0.31,0,0.119,-13.4,0.0866,121.999
+For Lena And Lennie,The Quintessence,Quincy Jones,Jazz,1962,259413,0.84,0.437,0.0857,0.641,0.0898,-18.129,0.0384,73.161
+Cheek To Cheek,Ella Fitzgerald Sings The Irving Berlin Song Book,Ella Fitzgerald,Jazz,1/1/1958,228066,0.766,0.632,0.202,0,0.146,-13.068,0.0587,134.298
+I Get Along Without You Very Well (Except Sometimes) - Vocal Version,Chet Baker Sings,Chet Baker,Jazz,1956,179640,0.922,0.442,0.033,0.000171,0.151,-23.063,0.041,103.34
+What's The Rush,Gerry Mulligan Meets Johnny Hodges,Gerry Mulligan,Jazz,1/1/1959,222360,0.97,0.405,0.0277,0.535,0.114,-21.897,0.033,51.059
+Skating In Central Park,Undercurrent,Bill Evans,Jazz,1962,324200,0.993,0.478,0.0294,0.948,0.105,-25.319,0.0453,124.308
+On The Sunny Side Of The Street,Sonny Side Up,Sonny Rollins,Jazz,1/1/1957,340960,0.532,0.662,0.331,0.000125,0.253,-12.712,0.0581,120.228
+"Straight, No Chaser","Straight, No Chaser",Thelonious Monk,Jazz,1967,688133,0.41,0.465,0.35,0.279,0.135,-12.977,0.0403,93.336
+Four,Workin',Miles Davis Quintet,Jazz,1959,433106,0.558,0.484,0.635,0,0.366,-7.109,0.043,99.308
+Four Brothers,Art Pepper + Eleven: Modern Jazz Classics,Art Pepper,Jazz,1/1/1959,178533,0.673,0.492,0.583,2.38E-06,0.201,-9.927,0.19,73.64
+Summertime,Charlie Parker With Strings: Complete Master Takes,Charlie Parker,Jazz,1/1/1995,166133,0.704,0.356,0.324,0.0025,0.204,-8.699,0.0289,88.861
+Joy Spring,Clifford Brown And Max Roach,Clifford Brown,Jazz,12/1/1954,410666,0.702,0.654,0.334,0.714,0.114,-12.662,0.0521,81.544
+Autumn Leaves,My Funny Valentine: The Best Of Chet Baker,Chet Baker,Jazz,4/23/2010,423573,0.779,0.496,0.634,0.402,0.0746,-10.328,0.0364,93.357
+Dream A Little Dream Of Me - Single Version,"Love, Ella",Ella Fitzgerald,Jazz,5/3/2007,185160,0.913,0.443,0.104,0,0.191,-17.042,0.101,76.497
+The Girl From Ipanema,Stan Getz: The Bossa Nova Albums,Stan Getz,Jazz,1/1/2008,317986,0.867,0.641,0.14,0.00166,0.105,-16.79,0.039,129.318
+You Don't Know What Love Is,Lady In Satin,Billie Holiday,Jazz,1958-06,228133,0.822,0.215,0.247,7.50E-05,0.355,-15.11,0.0354,86.391
+There Will Never Be Another You,The President Plays With The Oscar Peterson Trio,Lester Young,Jazz,6/2/1959,205666,0.978,0.588,0.0387,0.823,0.116,-17.944,0.06,83.4
+'Round Midnight,"Genius Of Modern Music (Vol.1, Expanded Edition)",Thelonious Monk,Jazz,1951,193840,0.907,0.542,0.32,0.649,0.0609,-9.975,0.0387,116.648
+Two Not One,Lee Konitz with Warne Marsh,Lee Konitz,Jazz,10/18/2005,331266,0.627,0.624,0.383,5.44E-06,0.0963,-10.561,0.0633,117.526
+Until The Real Thing Comes Along,Soul,Coleman Hawkins,Jazz,1/1/1958,282666,0.769,0.5,0.208,0.496,0.372,-14.235,0.0743,180.852
+You Don't Know What Love Is,For Those In Love (Expanded Edition),Dinah Washington,Jazz,1/1/1955,245000,0.966,0.516,0.101,3.89E-05,0.0906,-12.753,0.0513,137.832
+It Could Happen To You,Relaxin' With The Miles Davis Quintet,Miles Davis Quintet,Jazz,1958,396960,0.451,0.623,0.403,1.13E-05,0.448,-11.121,0.0426,93.911
+Cloe,Intercontinental,Joe Pass,Jazz,8/12/2014,321951,0.939,0.483,0.186,0.873,0.115,-21.824,0.0409,150.87
+Makin' Whoopee,Soulville,The Ben Webster Quintet,Jazz,1/1/1957,271893,0.883,0.529,0.0582,0.125,0.116,-19.131,0.0617,93.486
+Lover Man,Lover Man,Billie Holiday,Jazz,1/1/1958,197706,0.921,0.365,0.136,0,0.103,-12.42,0.0436,64.212
+Body and Soul,Body & Soul,Coleman Hawkins,Jazz,5/21/1996,182360,0.976,0.659,0.113,0.88,0.179,-16.756,0.0569,95.063
+Tea for Two,Piano Starts Here,Art Tatum,Jazz,1933,193866,0.991,0.358,0.452,0.864,0.14,-13.02,0.0347,166.973
+A Day In The Life,Wes Montgomery: Finest Hour,Wes Montgomery,Jazz,1/1/2000,354973,0.769,0.476,0.251,0.774,0.0637,-13.854,0.0278,98.833
+I Remember You,Motion,Lee Konitz,Jazz,1/1/1961,266706,0.794,0.564,0.305,0.0983,0.152,-14.224,0.063,115.739
+How Long Has This Been Going On,"Ben And ""Sweets""",Ben Webster,Jazz,1962,330693,0.99,0.529,0.0367,0.31,0.127,-21.63,0.0515,140.296
+Crystal Silence,Return To Forever,Chick Corea,Jazz,7/1/1972,415000,0.985,0.203,0.0186,0.377,0.0728,-24.277,0.0408,76.591
+You'd Be So Nice to Come Home To,Art Pepper Meets The Rhythm Section (OJC Remaster),Art Pepper,Jazz,1957,327773,0.388,0.664,0.422,0.000107,0.0626,-11.738,0.0552,89.263
+"Take the ""A"" Train",Jazz Profiles,Duke Ellington,Jazz,7/14/2008,332640,0.272,0.5,0.284,0.0432,0.12,-15.59,0.0404,93.724
+All of Me,Lady Day: The Complete Billie Holiday On Columbia (1933-1944),Billie Holiday,Jazz,1933,181440,0.972,0.504,0.0644,4.36E-06,0.174,-14.754,0.0408,106.994
+Solar - Rudy Van Gelder Remaster,Walkin',Miles Davis,Jazz,1957,282866,0.864,0.636,0.181,0.00251,0.0706,-17.511,0.0456,84.203
+Lullaby Of Birdland,Sarah Vaughan,Sarah Vaughan,Jazz,12/1/1954,240866,0.813,0.578,0.351,0,0.123,-12.432,0.101,122.712
+My Funny Valentine,Chet Baker Sings,Chet Baker,Jazz,1956,141133,0.941,0.438,0.00756,0.00643,0.109,-26.44,0.0382,133.32
+I've Got A Crush On You,Ella Sings Gershwin,Ella Fitzgerald,Jazz,9/11/1950,196440,0.986,0.455,0.106,0,0.122,-14.086,0.0422,66.807
+So Tender,"Standards, Vol. 2",Keith Jarrett,Jazz,1983,435266,0.818,0.373,0.302,0.835,0.171,-20.358,0.0376,86.925
+Footprints,Miles Smiles,Miles Davis,Jazz,1967-01,585960,0.128,0.402,0.409,0.000568,0.0947,-13.95,0.0363,130.681
+Blue Bossa - Remastered,Page One,Joe Henderson,Jazz,10/1/1963,482440,0.911,0.531,0.366,0.88,0.0916,-11.697,0.0496,81.867
+Have You Met Miss Jones?,We Get Requests,Oscar Peterson Trio,Jazz,1964,253840,0.861,0.698,0.0926,0.49,0.0887,-20.716,0.05,81.187
+A Nightingale Sang In Berkeley Square,Recorded Fall '61,Stan Getz,Jazz,1/1/1961,419626,0.951,0.425,0.0429,0.0184,0.148,-24.86,0.0408,96.097
+It's Only A Paper Moon,The War Years (1941-1947),Ella Fitzgerald,Jazz,9/13/1994,160133,0.944,0.761,0.103,0,0.127,-16.964,0.0416,114.044
+Just Friends,After Hours,Sarah Vaughan,Jazz,4/12/1955,181493,0.952,0.203,0.306,0.000307,0.281,-12.366,0.0344,76.905
+Young And Foolish,Everybody Digs Bill Evans,Bill Evans,Jazz,1959,354666,0.973,0.438,0.0172,0.557,0.0815,-23.66,0.0384,100.989
+Autumn Nocturne,Blues Walk,Lou Donaldson,Jazz,1958,294666,0.967,0.539,0.0678,0.168,0.114,-18.039,0.0468,124.105
+Blue World,Blue World,John Coltrane,Jazz,8/16/2019,368253,0.732,0.477,0.733,0.0756,0.153,-8.301,0.0682,120.42
+Never Will I Marry,Nancy Wilson/Cannonball Adderley,Nancy Wilson,Jazz,1962,139200,0.631,0.589,0.184,0,0.0819,-12.282,0.049,98.365
+Let's Do It,That Bad Eartha,Eartha Kitt,Jazz,1957,185466,0.874,0.653,0.0518,1.94E-06,0.242,-19.594,0.0359,96.591
+Weaver Of Dreams - Remastered 2003/Rudy Van Gelder Edition,Ready For Freddie (Rudy Van Gelder Remaster Edition),Freddie Hubbard,Jazz,1961,395560,0.912,0.418,0.227,0.822,0.0956,-15.537,0.0379,103.586
+Stella By Starlight (feat. John Coltrane & Bill Evans),Kind Of Blue (Legacy Edition),Miles Davis,Jazz,8/17/1959,284560,0.912,0.47,0.144,0.000118,0.0965,-12.824,0.0365,84.787
+I'll Never Smile Again,In The Land Of Hi Fi,Sarah Vaughan,Jazz,1/1/1955,153706,0.939,0.279,0.129,0.000229,0.204,-14.595,0.0326,59.991
